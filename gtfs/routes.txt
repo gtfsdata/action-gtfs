@@ -1,0 +1,355 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+1-10293,1,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+1-10296,1,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+2-10293,2,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+2-10296,2,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+3-10293,3,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+3-10296,3,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+4-10293,4,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+4-10296,4,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+5-10293,5,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+5-10296,5,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+7-10293,7,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+7-10296,7,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+8-10293,8,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+8-10296,8,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+9-10293,9,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+9-10296,9,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+10-10293,10,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+10-10296,10,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+11-10293,11,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+11-10296,11,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+12-10293,12,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+12-10296,12,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+13-10293,13,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+13-10296,13,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+14-10293,14,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+14-10296,14,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+15-10293,15,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+15-10296,15,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+16-10293,16,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+16-10296,16,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+17-10293,17,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+17-10296,17,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+18-10293,18,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+18-10296,18,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+19-10293,19,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+19-10296,19,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+21-10293,21,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+21-10296,21,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+22-10293,22,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+22-10296,22,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+23-10293,23,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+23-10296,23,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+24-10293,24,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+24-10296,24,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+25-10293,25,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+25-10296,25,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+26-10293,26,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+26-10296,26,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+27-10293,27,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+27-10296,27,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+30-10293,30,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+30-10296,30,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+31-10293,31,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+31-10296,31,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+39-10293,39,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+39-10296,39,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+40-10293,40,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+40-10296,40,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+43-10293,43,"",,3,
+43-10296,43,"",,3,
+44-10293,44,"",,3,
+44-10296,44,"",,3,
+45-10293,45,"",,3,
+45-10296,45,"",,3,
+51-10293,51,"",,3,
+51-10296,51,"",,3,
+52-10293,52,"",,3,
+52-10296,52,"",,3,
+54-10293,54,"",,3,
+54-10296,54,"",,3,
+55-10293,55,"",,3,
+55-10296,55,"",,3,
+56-10293,56,"",,3,
+56-10296,56,"",,3,
+57-10293,57,"",,3,
+57-10296,57,"",,3,
+58-10293,58,"",,3,
+58-10296,58,"",,3,
+59-10293,59,"",,3,
+59-10296,59,"",,3,
+60-10293,60,"",,3,
+60-10296,60,"",,3,
+61-10293,61,"",,3,
+61-10296,61,"",,3,
+62-10293,62,"",,3,
+62-10296,62,"",,3,
+63-10293,63,"",,3,
+63-10296,63,"",,3,
+64-10293,64,"",,3,
+64-10296,64,"",,3,
+65-10293,65,"",,3,
+65-10296,65,"",,3,
+66-10293,66,"",,3,http://www.action.act.gov.au/routes/66_woden
+66-10296,66,"",,3,http://www.action.act.gov.au/routes/66_woden
+67-10293,67,"",,3,
+67-10296,67,"",,3,
+71-10293,71,"",,3,
+71-10296,71,"",,3,
+80-10293,80,"",,3,http://www.action.act.gov.au/timetables_and_maps/weekday-services
+80-10296,80,"",,3,http://www.action.act.gov.au/routes/80_city
+81-10293,81,"",,3,
+81-10296,81,"",,3,
+83-10293,83,"",,3,
+83-10296,83,"",,3,
+88-10293,88,"",,3,
+88-10296,88,"",,3,
+160-10293,160,"",,3,http://www.action.act.gov.au/routes/60_160_city
+160-10296,160,"",,3,http://www.action.act.gov.au/routes/60_160_city
+161-10293,161,"",,3,
+161-10296,161,"",,3,
+162-10293,162,"",,3,http://www.action.act.gov.au/routes/62_162_city
+162-10296,162,"",,3,http://www.action.act.gov.au/routes/62_162_city
+163-10293,163,"",,3,
+163-10296,163,"",,3,
+164-10296,164,"",,3,
+171-10293,171,"",,3,
+171-10296,171,"",,3,
+200-10293,200,"",,3,
+200-10296,200,"",,3,
+202-10293,202,"",,3,
+202-10296,202,"",,3,
+250-10293,250,"",,3,
+250-10296,250,"",,3,
+251-10293,251,"",,3,
+251-10296,251,"",,3,
+252-10293,252,"",,3,
+252-10296,252,"",,3,
+255-10293,255,"",,3,
+255-10296,255,"",,3,
+259-10293,259,"",,3,
+259-10296,259,"",,3,
+300-10293,300,"",,3,
+300-10296,300,"",,3,
+313-10293,313,"",,3,
+313-10296,313,"",,3,
+314-10293,314,"",,3,
+314-10296,314,"",,3,
+315-10293,315,"",,3,
+315-10296,315,"",,3,
+318-10293,318,"",,3,
+318-10296,318,"",,3,
+319-10293,319,"",,3,
+319-10296,319,"",,3,
+343-10293,343,"",,3,
+343-10296,343,"",,3,
+401-10296,401,"PM Orana to Erindale Terminus",,3,
+404-10296,404,"AM Wanniassa to St Judes",,3,
+406-10296,406,"PM St Clares & St Edmunds to Mawson",,3,
+407-10296,407,"PM MacKillop College Isabella to Kambah",,3,
+412-10296,412,"AM Woden Bus Station to Orana",,3,
+416-10296,416,"AM Kambah to St Edmunds & St Clares",,3,
+417-10296,417,"PM Marist to Wanniassa",,3,
+420-10296,420,"PM Narrabundah College to City Bus Station",,3,
+423-10296,423,"PM Dickson College to City Bus Station",,3,
+427-10296,427,"AM Franklin to Holy Spirit Primary",,3,
+428-10296,428,"AM Waramanga to St Edmunds & St Clares",,3,
+432-10296,432,"AM Harrison to Amaroo Primary",,3,
+433-10296,433,"AM Theodore to Melrose High",,3,
+434-10296,434,"AM Yarralumla to Red Hill Primary",,3,
+451-10296,451,"PM Canberra High to Dunlop",,3,
+455-10296,455,"",,3,
+463-10296,463,"PM St Francis Xavier to Kippax Terminus",,3,
+468-10296,468,"PM Grammars to Richardson",,3,
+469-10296,469,"AM Gungahlin Market Place to Holy Spirit Primary",,3,
+477-10296,477,"AM Weston Creek Term to St Clares & St Edmunds",,3,
+480-10296,480,"AM Farrer to St Clares & St Edmunds",,3,
+481-10296,481,"AM Bonython to St Clares & St Edmunds",,3,
+484-10296,484,"PM Forrest Primary to Causeway",,3,
+490-10296,490,"AM Woden Bus Station to Alfred Deakin High",,3,
+491-10296,491,"PM Alfred Deakin High to Woden Bus Station",,3,
+500-10296,500,"PM St Anthonys to Conder",,3,
+502-10296,502,"AM Monash to Alfred Deakin High",,3,
+503-10296,503,"AM Weston to Mount Stromlo High",,3,
+505-10296,505,"PM Chapman Primary to Cooleman Court",,3,
+506-10296,506,"PM St John Vianney to Chapman",,3,
+508-10296,508,"PM Alfred Deakin High to Isabella Plains",,3,
+518-10296,518,"AM Monash to St Edmunds & St Clares",,3,
+520-10296,520,"AM Erindale to St Edmunds & St Clares",,3,
+524-10296,524,"PM Telopea Park School to Woden Bus Station",,3,
+525-10296,525,"PM Bonython Primary to Gordon",,3,
+526-10296,526,"PM Namadgi School to Gordon",,3,
+530-10296,530,"PM Holy Family to Monash",,3,
+534-10296,534,"AM Cohen St Bus Station to Burgmann Ang Sch Forde",,3,
+536-10296,536,"PM Wanniassa High to Isabella Plains",,3,
+540-10296,540,"PM Torrens Primary to Oxley",,3,
+541-10296,541,"PM St Francis Assisi to Bonython",,3,
+544-10296,544,"AM Stirling to MacKillop College Isabella",,3,
+545-10296,545,"PM St Edmunds & St Clares to Chapman",,3,
+546-10296,546,"PM St Edmunds & St Clares to Waramanga",,3,
+552-10296,552,"PM Jnr Girls Grammar to Tuggeranong Bus Station",,3,
+556-10296,556,"AM Oxley to Torrens Primary",,3,
+558-10296,558,"PM Snr Girls Grammar to Monash",,3,
+563-10296,563,"PM Snr Girls Grammar to Gleneagles",,3,
+564-10296,564,"AM Isabella Plains to St Clares/St Edmunds",,3,
+568-10296,568,"AM Gordon to Melrose High",,3,
+570-10296,570,"PM Brindabella Christian College to Macgregor",,3,
+585-10296,585,"AM Chisholm Shops to Sacred Heart Primary",,3,
+586-10296,586,"AM Gowrie to Melrose High School",,3,
+589-10296,589,"AM Chisholm to Melrose High School",,3,
+604-10296,604,"PM MacKillop College Wanniassa to Richardson",,3,
+605-10296,605,"PM Theodore Primary to  Gordon",,3,
+606-10296,606,"PM McKillop Collge Isabella Plains to Gordon",,3,
+612-10296,612,"PM Marist College to Woden Bus Station",,3,
+614-10296,614,"PM Orana to City Bus Station",,3,
+616-10296,616,"AM Hughes to Melrose High",,3,
+618-10296,618,"AM Gungahlin to Lyneham Primary",,3,
+620-10296,620,"AM Kaleen to Majura Primary",,3,
+623-10296,623,"PM Blue Gum School to Amaroo",,3,
+624-10296,624,"PM Brindabella Christian to Higgins",,3,
+628-10296,628,"AM Kambah to Marist College",,3,
+629-10296,629,"PM St Peter & Paul to Kambah",,3,
+632-10296,632,"PM Sacred Heart  to Isabella Plains",,3,
+633-10296,633,"PM Melrose High to Tuggeranong Bus Station",,3,
+644-10296,644,"AM Kambah to Wanniassa High",,3,
+645-10296,645,"PM Trinity Chrisitan to Banks",,3,
+646-10296,646,"PM Trinity Christian to Richardson",,3,
+647-10296,647,"PM Trinity Christian to Calwell",,3,
+648-10296,648,"PM Trinity Christian to Banks",,3,
+650-10296,650,"AM Richardson to Holy Family",,3,
+651-10296,651,"AM Conder to Calwell Primary",,3,
+660-10296,660,"AM Gordon to Trinity Christian",,3,
+661-10296,661,"PM MacKillop College Wanniassa to Gordon",,3,
+663-10296,663,"PM Torrens Primary to Curtin",,3,
+665-10296,665,"AM Conder to St Anthonys",,3,
+667-10296,667,"PM Marist College to O'Malley",,3,
+670-10296,670,"PM MacKillop College Wanniassa to Calwell",,3,
+671-10296,671,"AM Banks to Trinity Christian",,3,
+673-10296,673,"PM Marist College to Monash",,3,
+674-10296,674,"PM St Matthews School to Dunlop",,3,
+677-10296,677,"Waniassa Hills Primary to Kambah",,3,
+678-10296,678,"AM Chapman to Melrose High School",,3,
+679-10296,679,"PM MacKillop College Isabella to Cooleman Court",,3,
+680-10296,680,"PM Marist College to Chapman",,3,
+686-10296,686,"PM Radford College to Palmerston",,3,
+687-10296,687,"PM MacKillop College Wanniassa to Richardson",,3,
+690-10296,690,"AM Tuggeranong Bus Station to St Ed & St Clares",,3,
+692-10296,692,"AM Waramanga to Melrose High",,3,
+694-10296,694,"PM MacKillop College Wanniassa to Isaacs",,3,
+695-10296,695,"PM MacKillop College Isabella to Isabella Plains",,3,
+697-10296,697,"PM Melrose High to Isabella Plains",,3,
+705-10293,705,"",,3,
+705-10296,705,"",,3,
+712-10293,712,"",,3,
+712-10296,712,"",,3,
+714-10293,714,"",,3,
+714-10296,714,"",,3,
+717-10293,717,"",,3,
+717-10296,717,"",,3,
+718-10293,718,"",,3,
+718-10296,718,"",,3,
+719-10293,719,"",,3,
+719-10296,719,"",,3,
+720-10293,720,"",,3,
+720-10296,720,"",,3,
+725-10293,725,"",,3,
+725-10296,725,"",,3,
+726-10293,726,"",,3,
+726-10296,726,"",,3,
+732-10293,732,"",,3,
+732-10296,732,"",,3,
+743-10293,743,"",,3,http://www.action.act.gov.au/routes/xpresso/703_fraser
+743-10296,743,"",,3,http://www.action.act.gov.au/routes/xpresso/703_fraser
+744-10293,744,"",,3,
+744-10296,744,"",,3,
+749-10293,749,"",,3,
+749-10296,749,"",,3,
+765-10293,765,"",,3,
+765-10296,765,"",,3,
+767-10293,767,"",,3,
+767-10296,767,"",,3,
+775-10293,775,"",,3,http://www.action.act.gov.au/routes/xpresso/788_city
+775-10296,775,"",,3,http://www.action.act.gov.au/routes/xpresso/788_city
+783-10293,783,"",,3,
+783-10296,783,"",,3,
+791-10293,791,"",,3,
+791-10296,791,"",,3,
+792-10293,792,"",,3,
+792-10296,792,"",,3,
+810-10296,810,"PM St Thomas More to Pialligo",,3,
+818-10296,818,"PM St Clares/St Ed to Cohen St Bus Station",,3,
+823-10296,823,"PM Grammar to City Bus Station & Dickson",,3,
+824-10296,824,"PM Grammar to Woden Bus Station",,3,
+825-10296,825,"PM Grammars to Pialligo",,3,
+834-10296,834,"AM Pialligo to St Clares & St Edmunds",,3,
+840-10296,840,"AM Chifley to Snr Boys Grammar",,3,
+841-10296,841,"AM Curtin to Radford College",,3,
+842-10296,842,"PM Jnr Boys Grammar to Chifley",,3,
+844-10296,844,"AM Weston Creek to Radford College",,3,
+849-10296,849,"AM Campbell to North Ainslie Primary",,3,
+851-10296,851,"AM Richardson to Trinity Christian",,3,
+852-10296,852,"AM Bonython to St Anthonys",,3,
+855-10296,855,"AM Bonython to Trinity Christian",,3,
+856-10296,856,"AM Kambah to MacKillop College Isabella",,3,
+858-10296,858,"AM Kambah to MacKillop College Isabella",,3,
+859-10296,859,"AM Theodore to Trinity Christian",,3,
+863-10296,863,"AM Woden Bus Station to Red Hill Primary",,3,
+864-10296,864,"PM Narrabundah College to Woden Bus Station",,3,
+874-10296,874,"AM Chisholm Shops to Calwell Primary",,3,
+877-10296,877,"PM St Francis of Assisi to Gowrie",,3,
+886-10296,886,"PM Brindabella College to Nicholls",,3,
+888-10296,888,"PM Marist College to Conder",,3,
+890-10296,890,"PM Merici College to Bonner",,3,
+891-10296,891,"AM Theodore to St Clares/St Edmunds",,3,
+893-10296,893,"PM Snr Girls Grammar to Banks",,3,
+894-10296,894,"PM Girls Grammar to Bonython",,3,
+897-10296,897,"AM Conder to St Clares/St Edmunds",,3,
+898-10296,898,"PM St Francis Xavier to Cohen St Bus Station",,3,
+900-10293,900,"",,3,
+902-10293,902,"",,3,
+903-10293,903,"",,3,
+904-10293,904,"",,3,
+905-10293,905,"",,3,
+906-10293,906,"",,3,
+907-10293,907,"",,3,
+909-10293,909,"",,3,
+910-10293,910,"",,3,
+918-10293,918,"",,3,
+919-10293,919,"",,3,
+921-10293,921,"",,3,
+922-10293,922,"",,3,
+923-10293,923,"",,3,
+924-10293,924,"",,3,
+925-10293,925,"",,3,
+926-10293,926,"",,3,
+927-10293,927,"",,3,
+932-10293,932,"",,3,
+934-10293,934,"",,3,
+935-10293,935,"",,3,
+936-10293,936,"",,3,
+937-10293,937,"",,3,
+938-10293,938,"",,3,
+939-10293,939,"",,3,
+940-10293,940,"",,3,
+950-10293,950,"",,3,
+951-10293,951,"",,3,
+952-10293,952,"",,3,
+954-10293,954,"",,3,
+955-10293,955,"",,3,
+956-10293,956,"",,3,
+958-10293,958,"",,3,http://www.action.act.gov.au/routes/saturday/958_belconnen
+959-10293,959,"",,3,
+960-10293,960,"",,3,
+961-10293,961,"",,3,
+962-10293,962,"",,3,
+964-10293,964,"",,3,
+966-10293,966,"",,3,
+967-10293,967,"",,3,
+968-10293,968,"",,3,
+971-10293,971,"",,3,
+980-10293,980,"",,3,
+981-10293,981,"",,3,
+982-10293,982,"",,3,
+983-10293,983,"",,3,
+988-10293,988,"",,3,
