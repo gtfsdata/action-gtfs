@@ -1,0 +1,13 @@
+From:
+
+https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-seq
+https://data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect
+
+The work is licensed under the Creative Commons Attribution 3.0 Australia
+license.
+
+https://creativecommons.org/licenses/by/3.0/au/
+
+The original author of this work is Queensland Department of Transport and Main
+Roads.
+
