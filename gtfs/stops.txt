@@ -157,6 +157,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1172,,"Comrie St Erindale Centre Plt 1",, -35.403648, 149.099167,,,0
 1173,,"Comrie St opp Erindale Centre Plt 2",, -35.403778, 149.099335,,,0
 1174,,"Sternberg Cr before Erindale Dr",, -35.401993, 149.102753,,,0
+1176,,"McBryde Cr Erindale Centre",, -35.403908, 149.095993,,,0
+1177,,"McBryde Cr opp Erindale Centre",, -35.404015, 149.095840,,,0
 1178,,"Amsinck St after McBryde Cr",, -35.405556, 149.093552,,,0
 1179,,"Amsinck St after Erindale Dr",, -35.405602, 149.093292,,,0
 1180,,"MacKillop College McBryde Cr",, -35.406139, 149.090576,,,0
@@ -1438,7 +1440,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3351,,"Milne Bay Rd after General Bridges Rd",, -35.294376, 149.162155,,,0
 3352,,"Tobruk Rd Campbell",, -35.293785, 149.164322,,,0
 3355,,"Goodwin St opp Lyneham HS",, -35.251141, 149.131348,,,0
-3356,,"London Cct (Legislative Assembly)",, -35.281376, 149.131485,,,0
+3356,,"London Cct Legislative Assembly",, -35.281376, 149.131485,,,0
 3360,,"Wentworth Av Railway Station",, -35.319202, 149.147369,,,0
 3369,,"Cowper St before Majura Av",, -35.256821, 149.139679,,,0
 3377,,"Wattle St after Correa St",, -35.249699, 149.121429,,,0
@@ -1918,7 +1920,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4471,,"Petterd St after Roseby St",, -35.239204, 149.045746,,,0
 4472,,"Petterd St after 2nd Hannaford St",, -35.239285, 149.044922,,,0
 4473,,"Petterd St after Halford Cr",, -35.239529, 149.048523,,,0
-4474,,"Petterd St after Hergott St",, -35.239693, 149.048477,,,0
+4474,,"Petterd St after Herrgott St",, -35.239693, 149.048477,,,0
 4475,,"Petterd St Page Shops",, -35.240112, 149.052353,,,0
 4476,,"Petterd St opp Page Shops",, -35.240288, 149.052368,,,0
 4477,,"Ogilby Cr after Fletcher Pl",, -35.238739, 149.054733,,,0
@@ -2144,8 +2146,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4746,,"Amagula Av after Taggerty St",, -35.178654, 149.114532,,,0
 4747,,"Amagula Av after Yirawala St",, -35.180504, 149.113068,,,0
 4748,,"Amagula Av after Bungaree Cr",, -35.181511, 149.112747,,,0
-4749,,"Northbourne Av after Phillip Av",, -35.236713, 149.142899,,,0
-4750,,"Northbourne Av opp Phillip Av",, -35.235661, 149.143860,,,0
+4749,,"Federal Hwy after Phillip Av",, -35.236713, 149.142899,,,0
+4750,,"Federal Hwy opp Phillip Av",, -35.235661, 149.143860,,,0
 4751,,"Flemington Rd Exhibition Park",, -35.231899, 149.145004,,,0
 4752,,"Flemington Rd opp Exhibition Park",, -35.231068, 149.144760,,,0
 4753,,"Gurrang Ave after Marungul Av",, -35.174648, 149.113815,,,0
@@ -2213,6 +2215,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4857,,"Plimsoll Dr before David Miller",, -35.168186, 149.095932,,,0
 4859,,"Hardwick Cr after Powell St",, -35.224266, 149.020279,,,0
 4860,,"Hardwick Cr after Kippax Pl",, -35.224255, 149.020508,,,0
+4865,,"Burramarra Av After Horse Park Dr",, -35.160210, 149.104614,,,0
 4867,,"Unaipon Av after Wanganeen Av",, -35.168835, 149.112106,,,0
 4871,,"Jabanungga Av after Mundang Cr",, -35.169556, 149.102966,,,0
 4872,,"Jabanungga Av before 2nd Mundang Cr",, -35.168129, 149.103256,,,0
@@ -2351,7 +2354,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5062,,"Temperley St after Curran Dr",, -35.184460, 149.092026,,,0
 5063,,"Temperley St after Dobbin Cct",, -35.184490, 149.091843,,,0
 5064,,"Temperley St before Stebman Pl",, -35.186150, 149.092972,,,0
-5065,,"Kelleway Cr opp Gold Creek High",, -35.180424, 149.093185,,,0
+5065,,"Kelleway Av opp Gold Creek High",, -35.180424, 149.093185,,,0
 5066,,"Temperley St after Stedman Pl",, -35.188026, 149.094162,,,0
 5067,,"Temperley St after 2nd Sue Geh Cct",, -35.186161, 149.092804,,,0
 5068,,"Temperley St after Viner Pl",, -35.189888, 149.095367,,,0
