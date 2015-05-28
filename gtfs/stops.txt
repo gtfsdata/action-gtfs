@@ -222,8 +222,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1241,,"Clare Dennis Av after Noel Ryan Gdn",, -35.446545, 149.085449,,,0
 1242,,"Clare Dennis Av after 2nd Noel Ryan Gdn",, -35.444641, 149.087173,,,0
 1243,,"Clare Dennis Av after Woodfull Lp",, -35.443119, 149.085846,,,0
-1244,,"Barr Smith Av before Drakeford Dr",, -35.428791, 149.082199,,,0
-1245,,"Barr Smith Av after Drakeford Dr",, -35.428825, 149.082367,,,0
 1246,,"Brierly St Cooleman Ct Plt1",, -35.340843, 149.052338,,,0
 1248,,"Streeton Dr after Hindmarsh Dr",, -35.344681, 149.047089,,,0
 1249,,"Streeton Dr South of Hindmarsh Dr",, -35.344612, 149.047043,,,0
@@ -423,8 +421,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1469,,"Wheeler Cr after Halfrey Cct",, -35.400410, 149.089294,,,0
 1470,,"Wheeler Cr after Guthridge Cr",, -35.398151, 149.088379,,,0
 1471,,"Wheeler Cr after Kirkton St",, -35.398117, 149.088486,,,0
-1472,,"Wheeler Cr Wanniassa HS",, -35.394802, 149.086685,,,0
-1473,,"Wheeler Cr after Garratt St",, -35.394653, 149.086594,,,0
 1474,,"Kirkton St after Wheeler Cr",, -35.397469, 149.089951,,,0
 1475,,"Kirkton St after Balfour Cr",, -35.397537, 149.090164,,,0
 1476,,"Kirkton St after Holden Cr",, -35.397270, 149.094788,,,0
@@ -1091,8 +1087,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2609,,"Athllon Dr Southlands Shops",, -35.365025, 149.092712,,,0
 2610,,"Athllon Dr opp Southlands Shops",, -35.363342, 149.092285,,,0
 2613,,"Gladstone St after Maryborough St",, -35.323200, 149.172897,,,0
-2614,,"Gladstone St after Kembla St",, -35.322006, 149.179352,,,0
-2615,,"Gladstone St 83 to 85",, -35.324017, 149.182388,,,0
+2614,,"83 - 85 Gladstone St Fyshwick",, -35.322006, 149.179352,,,0
+2615,,"133 Gladstone Street Fyshwick",, -35.324017, 149.182388,,,0
 2616,,"Gladstone St before Albany St",, -35.325375, 149.183655,,,0
 2617,,"Bateson Road after Hospital Road",, -35.348598, 149.102798,,,0
 262,,"Eggleston Cr 2nd after MacLaurin Cr",, -35.351879, 149.084030,,,0
@@ -1341,7 +1337,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3199,,"Madigan St after Haddon St",, -35.247097, 149.162964,,,0
 3200,,"Madigan St Hackett Shops",, -35.248047, 149.163193,,,0
 3201,,"Madigan St after Rivett St",, -35.249779, 149.164078,,,0
-3202,,"Madigan St before Maitland St",, -35.249874, 149.163879,,,0
+3202,,"Blue Gum Primary School Madigan St",, -35.249874, 149.163879,,,0
 3203,,"Madigan St after Greyson St",, -35.252022, 149.162277,,,0
 3204,,"Madigan St after Holtze Cl",, -35.251740, 149.162552,,,0
 3205,,"Phillip Av after Madigan St",, -35.252666, 149.159119,,,0
@@ -1499,7 +1495,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3476,,"Aspinall St after Antill St",, -35.229092, 149.165466,,,0
 3477,,"Northcott Dr before Tobruk Rd",, -35.290554, 149.164429,,,0
 3486,,"Liversidge St after Garran Rd",, -35.282188, 149.120972,,,0
-3487,,"Liversidge after Ellery Cr",, -35.282700, 149.120697,,,0
+3487,,"Liversidge after Ellery Cr",, -35.282471, 149.120895,,,0
 4005,,"Haydon Dr opp Radford College",, -35.242821, 149.090759,,,0
 4006,,"College St Radford College",, -35.242519, 149.088547,,,0
 4007,,"Haydon Dr after University Dr",, -35.237503, 149.090790,,,0
@@ -2411,11 +2407,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5501,,"Westfield Bus Stn",, -35.238789, 149.063797,,,0
 5502,,"Westfield Bus Stn",, -35.238796, 149.063797,,,0
 5503,,"Westfield Bus Stn Set Down Only",, -35.238789, 149.063797,,,0
-5511,,"Belc. Community Stn Plt 1",, -35.239796, 149.069702,,,0
-5512,,"Belc. Community Stn Plt 2",, -35.239780, 149.069183,,,0
-5513,,"Belc. Community Stn Plt 3",, -35.239979, 149.068466,,,0
-5514,,"Belc. Community Stn Plt 4",, -35.240059, 149.068039,,,0
-5515,,"Belc. Community Stn Plt 5",, -35.239967, 149.068909,,,0
+5511,,"Belconnen Community Stn Plt 1",, -35.239796, 149.069702,,,0
+5512,,"Belconnen Community Stn Plt 2",, -35.239780, 149.069183,,,0
+5513,,"Belconnen Community Stn Plt 3",, -35.239979, 149.068466,,,0
+5514,,"Belconnen Community Stn Plt 4",, -35.240059, 149.068039,,,0
+5515,,"Belconnen Community Stn Plt 5",, -35.239967, 149.068909,,,0
 5517,,"Belc.Community Stn Arrivals",, -35.239944, 149.069046,,,0
 5520,,"Eastern Valley Way before Emu Bank Dr",, -35.239990, 149.072922,,,0
 5521,,"Eastern Valley Way after Emu Bank Dr",, -35.240570, 149.073441,,,0
@@ -2528,8 +2524,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6187,,"Oogeroo Av before Hoskins St",, -35.200394, 149.141602,,,0
 6188,,"Nullarbor Av before Kings Canyon St",, -35.201237, 149.151123,,,0
 6189,,"Nullarbor Av before Katoomba St",, -35.201164, 149.151276,,,0
-6191,,"Oodgeroo Av before Marie Pitt St",, -35.196114, 149.145706,,,0
-6192,,"Oodgeroo Av after Marie Pitt St",, -35.196655, 149.145889,,,0
 6302,,"Mulligans Flat Rd after Mabo Bvd",, -35.165035, 149.141418,,,0
 6304,,"Overall Av after Shedden St",, -35.171078, 149.094757,,,0
 6305,,"Overall Av after Horse Park Dr",, -35.171246, 149.095490,,,0
