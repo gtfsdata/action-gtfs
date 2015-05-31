@@ -9,7 +9,7 @@ It should be trivial to adapt this to monitor another public transit system.
 This is best used in a daily crontab.
 
 You shouldn't need to run this script yourself though, I already provide a
-repository at <https://github.com/micolous/action-gtfs>.  It has data starting
+repository at <https://github.com/gtfsdata/action-gtfs>.  It has data starting
 from April 2015.
 
 Copyright 2011, 2014, 2015 Michael Farrell <http://micolous.id.au>
