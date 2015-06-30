@@ -222,6 +222,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1241,,"Clare Dennis Av after Noel Ryan Gdn",, -35.446545, 149.085449,,,0
 1242,,"Clare Dennis Av after 2nd Noel Ryan Gdn",, -35.444641, 149.087173,,,0
 1243,,"Clare Dennis Av after Woodfull Lp",, -35.443119, 149.085846,,,0
+1244,,"Barr Smith Av before Drakeford Dr",, -35.428791, 149.082199,,,0
+1245,,"Barr Smith Av after Drakeford Dr",, -35.428825, 149.082367,,,0
 1246,,"Brierly St Cooleman Ct Plt1",, -35.340843, 149.052338,,,0
 1248,,"Streeton Dr after Hindmarsh Dr",, -35.344681, 149.047089,,,0
 1249,,"Streeton Dr South of Hindmarsh Dr",, -35.344612, 149.047043,,,0
@@ -287,7 +289,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1316,,"Atkins St after Livingston Av",, -35.388206, 149.085892,,,0
 1317,,"Garratt St opp Wanniassa Shops",, -35.392429, 149.086670,,,0
 1318,,"Garratt St Wanniassa Shops",, -35.392551, 149.086533,,,0
+1319,,"Wheeler Cr after Hyland Pl",, -35.394196, 149.084366,,,0
 1320,,"Wheeler Cr St Anthonys SSO",, -35.394894, 149.080017,,,0
+1321,,"Wheeler Cr after Wanniassa High School",, -35.394279, 149.084976,,,0
+1322,,"Wheeler Cr opp St Anthonys SSO",, -35.394981, 149.079941,,,0
 1323,,"Fincham Cr after Morrissey St",, -35.396160, 149.078903,,,0
 1324,,"Fincham Cr after Wheeler Cr",, -35.396301, 149.079132,,,0
 1325,,"Fincham Cr 2nd after Wheeler Cr",, -35.398613, 149.080307,,,0
@@ -421,6 +426,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1469,,"Wheeler Cr after Halfrey Cct",, -35.400410, 149.089294,,,0
 1470,,"Wheeler Cr after Guthridge Cr",, -35.398151, 149.088379,,,0
 1471,,"Wheeler Cr after Kirkton St",, -35.398117, 149.088486,,,0
+1472,,"Wheeler Cr Wanniassa HS",, -35.394802, 149.086685,,,0
+1473,,"Wheeler Cr after Garratt St",, -35.394653, 149.086594,,,0
 1474,,"Kirkton St after Wheeler Cr",, -35.397469, 149.089951,,,0
 1475,,"Kirkton St after Balfour Cr",, -35.397537, 149.090164,,,0
 1476,,"Kirkton St after Holden Cr",, -35.397270, 149.094788,,,0
@@ -1630,7 +1637,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4143,,"Aikman Dr opp UC",, -35.238232, 149.076889,,,0
 4144,,"Aikman Dr before Townsend Pl",, -35.237503, 149.076920,,,0
 4145,,"Emu Bank McDonalds",, -35.239727, 149.074753,,,0
-4146,,"Emu Bank opp McDonalds",, -35.239616, 149.075195,,,0
+4146,,"Emu Bank opp McDonalds",, -35.239590, 149.075058,,,0
 4147,,"Tillyard Dr McDonalds",, -35.205780, 149.035110,,,0
 4148,,"Tillyard Dr opp Charnwood Shops",, -35.205978, 149.035202,,,0
 4149,,"Tillyard Dr after Covington Cr",, -35.204620, 149.038177,,,0
@@ -2212,7 +2219,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4859,,"Hardwick Cr after Powell St",, -35.224266, 149.020279,,,0
 4860,,"Hardwick Cr after Kippax Pl",, -35.224255, 149.020508,,,0
 4865,,"Burramarra Av After Horse Park Dr",, -35.160210, 149.104614,,,0
-4867,,"Unaipon Av after Wanganeen Av",, -35.168835, 149.112106,,,0
+4867,,"Unaipon Av Ngunnawal Primary School",, -35.168835, 149.112106,,,0
 4871,,"Jabanungga Av after Mundang Cr",, -35.169556, 149.102966,,,0
 4872,,"Jabanungga Av before 2nd Mundang Cr",, -35.168129, 149.103256,,,0
 4874,,"Mirrabei Dr after Gundaroo Rd",, -35.177536, 149.124130,,,0
@@ -2256,7 +2263,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4926,,"Brookes St after Sandford St",, -35.219009, 149.140808,,,0
 4927,,"Flemington Rd before Exhibition Park",, -35.227066, 149.144226,,,0
 4928,,"Flemington Rd after Randwick Rd",, -35.227226, 149.143967,,,0
-4929,,"Randwick Rd Canberra Racecourse",, -35.228260, 149.140884,,,0
 4931,,"Alpen St after Alfred Hill Dr",, -35.204399, 149.060165,,,0
 4932,,"Shakespeare Cr Fraser Opp West Terminus",, -35.190842, 149.035538,,,0
 4933,,"Daley Cr opp Fraser East Terminus",, -35.189999, 149.047211,,,0
@@ -2385,7 +2391,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5102,,"Kerrigan St before Dunnet St",, -35.193760, 149.031235,,,0
 5103,,"Catalina Dr",, -35.299023, 149.188065,,,0
 5110,,"Dakota Dr after Spitfire Av",, -35.299610, 149.189026,,,0
-5111,,"Catalina DR Costco",, -35.295860, 149.189560,,,0
+5111,,"Catalina Dr Costco",, -35.295860, 149.189560,,,0
 5127,,"Canberra Av after Ipswich St",, -35.330887, 149.162582,,,0
 5139,,"Joynton Smith Dr after Sutherland Cr",, -35.230595, 149.061752,,,0
 5140,,"Joynton Smith Dr North after Sutherland Cr",, -35.231247, 149.061615,,,0
@@ -2449,7 +2455,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6043,,"Hibberson St before Hinder St",, -35.186047, 149.137558,,,0
 6045,,"Kerrigan St after Lance Hill Av",, -35.193226, 149.018723,,,0
 6046,,"Kerrigan St before Lance Hill Av",, -35.193115, 149.018829,,,0
-6050,,"Nullarbor Av after Cultivation St",, -35.202030, 149.156525,,,0
+6050,,"Nullarbor Av after Cultivation St",, -35.202049, 149.156830,,,0
 6051,,"Nullarbor Av after Katoomba St",, -35.201965, 149.156555,,,0
 6052,,"Cultivation St after Encounter St",, -35.200195, 149.158340,,,0
 6053,,"Cultivation St after Nullarbor Av",, -35.200680, 149.157928,,,0
@@ -2512,7 +2518,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6171,,"Flemington Road after Manning Clark Cr",, -35.193249, 149.150803,,,0
 6172,,"Flemington Road after Mapleton Av",, -35.194515, 149.150940,,,0
 6173,,"Flemington Road before Geikie St",, -35.207798, 149.147415,,,0
-6174,,"Flemington Rd after Wells Station Dr",, -35.209213, 149.147537,,,0
+6174,,"Flemington Rd after Well Station Dr",, -35.209213, 149.147537,,,0
 6175,,"Katherine Ave Amaroo Shops",, -35.165142, 149.130676,,,0
 6180,,"Oodgeroo Av after Hoskins St",, -35.198700, 149.144226,,,0
 6181,,"Oodgeroo Av after Nullarbor Av",, -35.198978, 149.143936,,,0
@@ -2522,8 +2528,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6185,,"Manning Clark Cr after Flemington Rd",, -35.189995, 149.143555,,,0
 6186,,"Oodgeroo Av after Gwen Meredith",, -35.200275, 149.141541,,,0
 6187,,"Oogeroo Av before Hoskins St",, -35.200394, 149.141602,,,0
-6188,,"Nullarbor Av before Kings Canyon St",, -35.201237, 149.151123,,,0
-6189,,"Nullarbor Av before Katoomba St",, -35.201164, 149.151276,,,0
+6188,,"Nullarbor Av before Kings Canyon St",, -35.201305, 149.151611,,,0
+6189,,"Nullarbor Av before Katoomba St",, -35.201176, 149.151443,,,0
+6191,,"Oodgeroo Av before Marie Pitt St",, -35.196114, 149.145706,,,0
+6192,,"Oodgeroo Av after Marie Pitt St",, -35.196655, 149.145889,,,0
 6302,,"Mulligans Flat Rd after Mabo Bvd",, -35.165035, 149.141418,,,0
 6304,,"Overall Av after Shedden St",, -35.171078, 149.094757,,,0
 6305,,"Overall Av after Horse Park Dr",, -35.171246, 149.095490,,,0
@@ -2548,8 +2556,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6333,,"Langtree Cr after Nudurr Dr",, -35.200672, 149.113220,,,0
 6334,,"Abena Av after Chance St",, -35.200642, 149.104126,,,0
 6335,,"Abena Av after Taplow St",, -35.200768, 149.104095,,,0
-6338,,"David Walsh before Horse Park Dr",, -35.178761, 149.144608,,,0
-6339,,"David Walsh Ave after Horse Park Dr",, -35.178886, 149.144257,,,0
+6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
+6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
 7002,,"Hibberson St Gungahlin Market Place",, -35.185246, 149.133453,,,0
 7004,,"Hibberson St before Gozzard St",, -35.185276, 149.132919,,,0
