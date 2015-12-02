@@ -1176,7 +1176,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2697,,"Tharwa Dr after Mentone View",, -35.445198, 149.093262,,,0
 2698,,"Tharwa Dr before Box Hill",, -35.454624, 149.091324,,,0
 2699,,"Tharwa Dr after Box Hill",, -35.454624, 149.090988,,,0
-2703,,"Woden Bus Stn Plt 3",, -35.344463, 149.087234,,,0
 2705,,"Woden Bus Stn Plt 5",, -35.344463, 149.087234,,,0
 2706,,"Woden Bus Stn Plt 6",, -35.344467, 149.087540,,,0
 2709,,"Woden Bus Stn Plt 9",, -35.344242, 149.087814,,,0
@@ -1190,7 +1189,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2731,,"Kent St North of Strickland Cr",, -35.317150, 149.098206,,,0
 2732,,"State Cir after Melbourne Av",, -35.312233, 149.123352,,,0
 2803,,"Steve Irwin Ave after David Fleay St",, -35.324371, 149.036255,,,0
-2804,,"Woden Bus Stn Plt 4",, -35.344460, 149.087250,,,0
 2805,,"Steve Irwin Ave after Dot Butler St",, -35.324558, 149.036362,,,0
 2806,,"Steve Irwin Ave after John Gorton Dr",, -35.320232, 149.036819,,,0
 2810,,"John Gorton Dr after Fred Daley Ave",, -35.320015, 149.037918,,,0
@@ -1203,6 +1201,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2822,,"Cotter Road After Streeton Drive",, -35.326969, 149.052643,,,0
 2824,,"Iron Knob Street Park and Ride",, -35.338688, 149.182785,,,0
 2825,,"Canberra Avenue after Whyalla St",, -35.335949, 149.172775,,,0
+2903,,"Woden Bus Stn Plt 18",, -35.344154, 149.086624,,,0
 2905,,"Woden Bus Station",, -35.344559, 149.086914,,,0
 2910,,"Woden Bus Station",, -35.344002, 149.087769,,,0
 2916,,"Woden Bus Stn Arrivals",, -35.344460, 149.087250,,,0
@@ -1532,7 +1531,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3444,,"Lance Hill Av before Fairlight St",, -35.195213, 149.020264,,,0
 3459,,"Watkin St after Thynne St",, -35.244961, 149.095490,,,0
 3460,,"Watkin St after Battye St",, -35.245445, 149.095276,,,0
-3462,,"Akuna St before Bunda St",, -35.281254, 149.133606,,,0
 3463,,"Akuna St after Ballumbir St",, -35.280727, 149.135284,,,0
 3467,,"Molonglo Dr Brindabella Business Park",, -35.315044, 149.190308,,,0
 3469,,"Brindabella Cct",, -35.313168, 149.190277,,,0
@@ -2618,8 +2616,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
-7002,,"Gungahlin Market Place",, -35.184669, 149.132507,,,0
-7004,,"Gungahlin Market Place",, -35.184502, 149.132416,,,0
+7002,,"Gungahlin Market Place",, -35.185246, 149.133453,,,0
+7004,,"Gungahlin Market Place",, -35.185276, 149.132919,,,0
 8831,,"City Bus Stn Northbourne Av Plt 11",, -35.278988, 149.128860,,,0
 8888,,"Commonwealth Av Regetta Point",, -35.288395, 149.127823,,,0
 8889,,"Commonwealth Av after Albert Hall",, -35.288746, 149.127365,,,0
