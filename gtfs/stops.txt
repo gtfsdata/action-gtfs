@@ -1461,6 +1461,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3398,,"Wattle St Lyneham Shops",, -35.252918, 149.125015,,,0
 3399,,"Menindee Dr ACT Hospice",, -35.303581, 149.151566,,,0
 3401,,"City Bus Stn Plt 1",, -35.279133, 149.130585,,,0
+3402,,"City Bus Stn Plt 2",, -35.279331, 149.130417,,,0
 3403,,"Braybrooke St after Masterman St",, -35.244701, 149.099701,,,0
 3404,,"City Bus Stn Plt 3",, -35.279049, 149.130478,,,0
 3405,,"City Bus Stn Plt 4",, -35.278511, 149.129959,,,0
@@ -2239,7 +2240,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4892,,"Belconnen Wy after Springvale Dr",, -35.243214, 149.048416,,,0
 4893,,"Belconnen Wy before Springvale Dr",, -35.243343, 149.048126,,,0
 4894,,"Moyes Cr after Flack St",, -35.220779, 149.021637,,,0
-4895,,"Moyes Cr after Southern Cross Dr",, -35.220356, 149.021835,,,0
+4895,,"Moyes Cr after Southern Cross Dr",, -35.220997, 149.021729,,,0
 4896,,"Starke St after 2nd Fullagar Cr",, -35.228401, 149.019684,,,0
 4897,,"Ashkanasy Cr after Clancy St",, -35.210442, 149.069794,,,0
 4898,,"Ashkanasy Cr after Pitcairn St",, -35.210388, 149.069672,,,0
@@ -2514,7 +2515,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6161,,"Flemington Rd after Nullarbor Av Sth",, -35.201500, 149.149277,,,0
 6165,,"Burgmann Anglican School Forde",, -35.170834, 149.143845,,,0
 6166,,"Hibberson Kate Crace TERMINATING STOP ONLY",, -35.186024, 149.138367,,,0
-6167,,"Flemington Rd after 2nd Manning Clarke",, -35.187164, 149.143311,,,0
+6167,,"Flemington Rd after 2nd Manning Clark",, -35.187164, 149.143311,,,0
 6168,,"Flemington Road after Hamer St",, -35.187080, 149.144989,,,0
 6169,,"Flemington Road before 2nd Manning Clarke Cr",, -35.187981, 149.148407,,,0
 6170,,"Flemington Road after Wizard St",, -35.188171, 149.149567,,,0
@@ -2561,6 +2562,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6335,,"Abena Av after Taplow St",, -35.200768, 149.104095,,,0
 6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
+6340,,"Manning Clark Cr after Oodgeroo Av",, -35.193264, 149.147369,,,0
+6341,,"Manning Clark Cr before Oodgeroo Ave",, -35.193386, 149.147354,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
 7002,,"Gungahlin Market Place",, -35.185246, 149.133453,,,0
 7004,,"Gungahlin Market Place",, -35.185276, 149.132919,,,0
