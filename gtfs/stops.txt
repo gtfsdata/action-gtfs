@@ -1194,8 +1194,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3002,,"London Cct before East Row",, -35.279617, 149.130249,,,0
 3003,,"London Cct Commonwealth Bank",, -35.281563, 149.131866,,,0
 3004,,"London Cct after Akuna St",, -35.282280, 149.132095,,,0
-3006,,"Constitution Av CIT Reid",, -35.286457, 149.136490,,,0
+3006,,"Constitution Av CIT Reid",, -35.285461, 149.135513,,,0
 3007,,"Constitution Av before Anzac West",, -35.288513, 149.139984,,,0
+3008,,"Constitution Av after Anzac East",, -35.290485, 149.143265,,,0
 3009,,"Constitution Av after Creswell St",, -35.291836, 149.145523,,,0
 3011,,"Russell Dr Russell Offices",, -35.297298, 149.150269,,,0
 3012,,"Kings Av Edmund Barton Building",, -35.304367, 149.134857,,,0
@@ -1209,6 +1210,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3028,,"Kings Av opp Edmund Barton Bld",, -35.303455, 149.136139,,,0
 3029,,"Russell Dr Russell Offices Carpark",, -35.297131, 149.149902,,,0
 3031,,"Constitution Av after Russell Dr",, -35.291779, 149.145157,,,0
+3032,,"Constitution Av Anzac East",, -35.290340, 149.142715,,,0
 3033,,"Constitution Av after Anzac West",, -35.288544, 149.139725,,,0
 3034,,"Constitution Av opp Reid CIT",, -35.286438, 149.136215,,,0
 3036,,"London Cct Metropolitan Bldg",, -35.282700, 149.125549,,,0
@@ -2347,7 +2349,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5049,,"Murdoch St after Goodwin St",, -35.252434, 149.131668,,,0
 5051,,"Gundaroo Dr after William Slim Dr",, -35.196651, 149.105759,,,0
 5052,,"Gundaroo Dr after Nudurr Dr",, -35.196766, 149.105728,,,0
-5053,,"Gundaroo Dr before Burrowa St",, -35.193871, 149.110733,,,0
+5053,,"GUNDAROO DR / GUNDAROO DR",, -35.193871, 149.110733,,,0
 5054,,"Gundaroo Dr after Burrowa St",, -35.193863, 149.110855,,,0
 5058,,"Curran Dr after McClelland Av South Entry",, -35.185410, 149.084976,,,0
 5059,,"Curran Dr before McClelland Av",, -35.185497, 149.085205,,,0
@@ -2526,10 +2528,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6175,,"Katherine Ave Amaroo Shops",, -35.165142, 149.130676,,,0
 6180,,"Oodgeroo Av after Hoskins St",, -35.198700, 149.144226,,,0
 6181,,"Oodgeroo Av after Nullarbor Av",, -35.198978, 149.143936,,,0
-6182,,"Manning Clark Cr after Oodgeroo Av",, -35.193134, 149.145737,,,0
-6183,,"Manning Clark Cr before Oodgeroo Ave",, -35.193043, 149.145966,,,0
-6184,,"Manning Clark Cr before Flemington Rd",, -35.189995, 149.143402,,,0
-6185,,"Manning Clark Cr after Flemington Rd",, -35.189995, 149.143555,,,0
 6186,,"Oodgeroo Av after Gwen Meredith",, -35.200275, 149.141541,,,0
 6187,,"Oogeroo Av before Hoskins St",, -35.200394, 149.141602,,,0
 6188,,"Nullarbor Av before Kings Canyon St",, -35.201305, 149.151611,,,0
