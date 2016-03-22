@@ -1195,7 +1195,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3003,,"London Cct Commonwealth Bank",, -35.281563, 149.131866,,,0
 3004,,"London Cct after Akuna St",, -35.282280, 149.132095,,,0
 3006,,"Constitution Av CIT Reid",, -35.285461, 149.135513,,,0
-3007,,"Constitution Av before Anzac West",, -35.288513, 149.139984,,,0
 3008,,"Constitution Av after Anzac East",, -35.290485, 149.143265,,,0
 3009,,"Constitution Av after Creswell St",, -35.291836, 149.145523,,,0
 3011,,"Russell Dr Russell Offices",, -35.297298, 149.150269,,,0
@@ -1392,6 +1391,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3248,,"Knox St 2nd after Dickinson St",, -35.237980, 149.153641,,,0
 3250,,"Knox St after Piddington St",, -35.234707, 149.151703,,,0
 3252,,"Knox St opp old Watson Terminus",, -35.232521, 149.153198,,,0
+3256,,"Monaro Cr before Carnegie Cr",, -35.334587, 149.131195,,,0
 3258,,"King Edward Tce National Library",, -35.297958, 149.129272,,,0
 3259,,"King Edward Tce Treasury Building",, -35.298038, 149.128983,,,0
 3260,,"Parkes Pl John Gorton Building",, -35.301186, 149.133881,,,0
@@ -2057,7 +2057,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4629,,"Liversidge St after McCoy Cct",, -35.284779, 149.119080,,,0
 4630,,"Lennox Crossing after roundabout",, -35.288136, 149.116913,,,0
 4631,,"Lennox Crossing before roundabout",, -35.287781, 149.117065,,,0
-4632,,"Lennox Crossing National Museum",, -35.292381, 149.120270,,,0
+4632,,"Lennox Crossing National Museum",, -35.291679, 149.118698,,,0
 4633,,"Edinburgh Av Rydges Canberra",, -35.283463, 149.125229,,,0
 4634,,"Kerrigan St 2nd after Lance Hill Dr",, -35.189140, 149.022064,,,0
 4635,,"Kerrigan St after Traeger St roundabout",, -35.189198, 149.026520,,,0
