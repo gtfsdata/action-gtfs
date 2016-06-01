@@ -2349,7 +2349,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5049,,"Murdoch St after Goodwin St",, -35.252434, 149.131668,,,0
 5051,,"Gundaroo Dr after William Slim Dr",, -35.196651, 149.105759,,,0
 5052,,"Gundaroo Dr after Nudurr Dr",, -35.196766, 149.105728,,,0
-5053,,"GUNDAROO DR / GUNDAROO DR",, -35.193871, 149.110733,,,0
+5053,,"Gundaroo Dr before Burrowa St",, -35.193871, 149.110733,,,0
 5054,,"Gundaroo Dr after Burrowa St",, -35.193863, 149.110855,,,0
 5058,,"Curran Dr after McClelland Av South Entry",, -35.185410, 149.084976,,,0
 5059,,"Curran Dr before McClelland Av",, -35.185497, 149.085205,,,0
