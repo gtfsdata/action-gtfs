@@ -1177,7 +1177,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2825,,"Canberra Avenue after Whyalla St",, -35.335949, 149.172775,,,0
 2903,,"Woden Bus Stn Plt 18",, -35.344154, 149.086624,,,0
 2905,,"Woden Bus Station",, -35.344559, 149.086914,,,0
-2916,,"Woden Bus Stn Arrivals",, -35.344460, 149.087250,,,0
+2916,,"Woden Bus Stn Arrivals",, -35.344475, 149.087250,,,0
 2919,,"Ipswich St before Canberra Av",, -35.329094, 149.162796,,,0
 2925,,"National Cct Forrest PS after Hobart Av",, -35.315483, 149.126663,,,0
 2926,,"National Cct Forrest PS before Hobart Av",, -35.315571, 149.126541,,,0
