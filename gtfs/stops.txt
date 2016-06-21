@@ -823,7 +823,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2242,,"Queen Victoria Tce Tennis Courts",, -35.304008, 149.130875,,,0
 2245,,"Federation Mall Parliament House Northbound",, -35.305534, 149.126068,,,0
 2246,,"Federation Mall Parliament House Southbound",, -35.306030, 149.127045,,,0
-2247,,"Commonwealth Av opp Albert Hall",, -35.297894, 149.126312,,,0
+2247,,"Commonwealth Av opp Albert Hall",, -35.297890, 149.126297,,,0
 2248,,"Commonwealth Av Albert Hall",, -35.297775, 149.125885,,,0
 2249,,"Nemarang Cr after Galibal St",, -35.352322, 149.066879,,,0
 2250,,"Egglestone Cr before Charteris Cr",, -35.353123, 149.080780,,,0

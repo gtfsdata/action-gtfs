@@ -105,7 +105,6 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 83-10359,83,"",,3,
 88-10338,88,"",,3,
 88-10359,88,"",,3,
-101-10359,101,"",,3,
 160-10338,160,"",,3,http://www.action.act.gov.au/routes/60_160_city
 160-10359,160,"",,3,http://www.action.act.gov.au/routes/60_160_city
 161-10338,161,"",,3,
