@@ -1449,6 +1449,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3346,,"Wattle St after Dyson St",, -35.250488, 149.122757,,,0
 3351,,"Milne Bay Rd after General Bridges Rd",, -35.294170, 149.162292,,,0
 3352,,"Tobruk Rd Campbell",, -35.293785, 149.164322,,,0
+3353,,"Canberra Airport",, -35.307655, 149.189880,,,0
 3355,,"Goodwin St opp Lyneham HS",, -35.251141, 149.131348,,,0
 3356,,"London Cct Legislative Assembly",, -35.281322, 149.131470,,,0
 3360,,"Wentworth Av Railway Station",, -35.319202, 149.147369,,,0
