@@ -11,7 +11,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 0406,,"MacFarlane Burnet Av before Constance Stone St",, -35.209293, 149.002975,,,0
 0600,,"O'Hanlon Pl after Gold Creek Rd",, -35.192123, 149.085968,,,0
 0601,,"O'Hanlon Pl before Gold Creek Rd",, -35.192142, 149.086075,,,0
-1,,"Tuggeranong Bus Station  Platform 9",, -35.415073, 149.065628,,,0
 1001,,"Drumston St opp MacKillop College",, -35.426113, 149.091614,,,0
 1002,,"Drumston St MacKillop after Isabella Dr",, -35.425972, 149.091705,,,0
 1003,,"Hambidge Cr after Truganini Pl",, -35.418968, 149.120026,,,0
@@ -663,7 +662,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2062,,"Eggleston Cr opp Chifley Shops",, -35.352150, 149.075302,,,0
 2063,,"Eggleston Cr after MacDonald St",, -35.349594, 149.076141,,,0
 2064,,"Eggleston Cr after Plunkett St",, -35.349674, 149.076187,,,0
-2065,,"Launceston St / Dennes Pl",, -35.346676, 149.074127,,,0
+2065,,"Launceston St before Dennes Pl",, -35.346676, 149.074127,,,0
 2067,,"Launceston St after Tarraleah Cr",, -35.343410, 149.074524,,,0
 2068,,"Launceston St after Port Arthur St",, -35.342861, 149.074677,,,0
 2069,,"Launceston St Lyons Shops",, -35.339706, 149.076981,,,0
@@ -2464,7 +2463,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6034,,"Katherine Av after Benaroon Cct",, -35.169594, 149.137848,,,0
 6036,,"Flemington Rd after Sandford St",, -35.220104, 149.144882,,,0
 6037,,"Flemington Rd after Lysaght St",, -35.217922, 149.145370,,,0
-6043,,"Hibberson St before Hinder St",, -35.186047, 149.137558,,,0
 6045,,"Kerrigan St after Lance Hill Av",, -35.193226, 149.018723,,,0
 6046,,"Kerrigan St before Lance Hill Av",, -35.193115, 149.018829,,,0
 6050,,"Nullarbor Av after Cultivation St",, -35.202049, 149.156830,,,0
@@ -2505,9 +2503,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6132,,"The Valley Av West of Warwick St",, -35.186474, 149.126587,,,0
 6133,,"The Valley Av after Delma View",, -35.186417, 149.126663,,,0
 6134,,"Redruth St after Abena Av",, -35.202087, 149.107086,,,0
-6135,,"Hibberson St after Hinder St",, -35.185951, 149.137711,,,0
-6138,,"Anthony Rolfe Av after Hamer St",, -35.184795, 149.142395,,,0
-6139,,"Anthony Rolfe Av after Kate Crace St",, -35.184475, 149.142365,,,0
 6140,,"Anthony Rolfe Av after Peters St",, -35.185287, 149.145386,,,0
 6141,,"Anthony Rolfe Av 2nd after Kate Crace St",, -35.185028, 149.145645,,,0
 6142,,"Anthony Rolfe Av after Wizard St",, -35.185902, 149.149094,,,0
@@ -2524,7 +2519,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6160,,"Flemington Rd after Nullarbor Av",, -35.200222, 149.149277,,,0
 6161,,"Flemington Rd after Nullarbor Av Sth",, -35.201500, 149.149277,,,0
 6165,,"Burgmann Anglican School Forde",, -35.170834, 149.143845,,,0
-6166,,"Hibberson Kate Crace TERMINATING STOP ONLY",, -35.186024, 149.138367,,,0
 6168,,"Flemington Road after Hamer St",, -35.187080, 149.144989,,,0
 6169,,"Flemington Road before 2nd Manning Clarke Cr",, -35.187981, 149.148407,,,0
 6170,,"Flemington Road after Wizard St",, -35.188171, 149.149567,,,0
@@ -2535,6 +2529,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6175,,"Katherine Ave Amaroo Shops",, -35.165142, 149.130676,,,0
 6180,,"Oodgeroo Av after Hoskins St",, -35.198700, 149.144226,,,0
 6181,,"Oodgeroo Av after Nullarbor Av",, -35.198978, 149.143936,,,0
+6182,,"Manning Clark Cr after Oodgeroo Av",, -35.193134, 149.145737,,,0
+6183,,"Manning Clark Cr before Oodgeroo Ave",, -35.193043, 149.145966,,,0
+6184,,"Manning Clark Cr before Flemington Rd",, -35.189995, 149.143402,,,0
+6185,,"Manning Clark Cr after Flemington Rd",, -35.189995, 149.143555,,,0
 6186,,"Oodgeroo Av after Gwen Meredith",, -35.200275, 149.141541,,,0
 6187,,"Oogeroo Av before Hoskins St",, -35.200394, 149.141602,,,0
 6188,,"Nullarbor Av before Kings Canyon St",, -35.201305, 149.151611,,,0
@@ -2567,11 +2565,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6335,,"Abena Av after Taplow St",, -35.200768, 149.104095,,,0
 6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
-6340,,"Manning Clark Cr after Oodgeroo Av",, -35.193264, 149.147369,,,0
-6341,,"Manning Clark Cr before Oodgeroo Ave",, -35.193386, 149.147354,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
-7002,,"Gungahlin Market Place",, -35.185246, 149.133453,,,0
-7004,,"Gungahlin Market Place",, -35.185276, 149.132919,,,0
 8831,,"City Bus Stn Northbourne Av Plt 11",, -35.278988, 149.128860,,,0
 8888,,"Commonwealth Av Regetta Point",, -35.288395, 149.127823,,,0
 8889,,"Commonwealth Av after Albert Hall",, -35.288746, 149.127365,,,0
