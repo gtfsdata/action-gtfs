@@ -2032,7 +2032,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4588,,"Antill St after Hawdon Pl",, -35.248737, 149.144562,,,0
 4589,,"Antill St 2nd after Melba St",, -35.248272, 149.146683,,,0
 4590,,"Antill St 2nd after Phillip Av",, -35.248428, 149.147476,,,0
-4591,,"Antill St after Gale St",, -35.247807, 149.150909,,,0
+4591,,"Antill St after Gale St",, -35.247841, 149.150253,,,0
 4592,,"Antill St after Cadell St",, -35.248013, 149.150894,,,0
 4597,,"Phillip Av  before Bradfield St",, -35.241646, 149.150009,,,0
 4603,,"Northbourne Av After Swinden St",, -35.244881, 149.134659,,,0
@@ -2359,7 +2359,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5052,,"Gundaroo Dr after Nudurr Dr",, -35.196766, 149.105728,,,0
 5053,,"Gundaroo Dr before Burrowa St",, -35.193871, 149.110733,,,0
 5054,,"Gundaroo Dr after Burrowa St",, -35.193863, 149.110855,,,0
-5056,,"Temp Gungahlin Platform 1",, -35.184669, 149.132507,,,0
+5056,,"Gungahlin Plt 1 Gozzard",, -35.184669, 149.132507,,,0
 5058,,"Curran Dr after McClelland Av South Entry",, -35.185410, 149.084976,,,0
 5059,,"Curran Dr before McClelland Av",, -35.185497, 149.085205,,,0
 5060,,"Curran Dr 2nd after McClelland Av",, -35.184422, 149.088760,,,0
@@ -2441,7 +2441,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5999,,"Paul Coe Cr after Kardang St",, -35.178272, 149.122421,,,0
 6000,,"Burdekin Av Amaroo Primary School",, -35.165611, 149.127350,,,0
 6001,,"Katherine Av after Tarrabool St",, -35.169910, 149.134430,,,0
-6003,,"Temp Gungahlin Platform 2",, -35.184502, 149.132416,,,0
+6003,,"Gungahlin Plt 2 Gozzard",, -35.184502, 149.132416,,,0
 6005,,"Jane Sutherland St after Tom Roberts Av",, -35.467030, 149.105957,,,0
 6006,,"Well Station Dr after Kings Canyon St",, -35.209621, 149.155533,,,0
 6007,,"Well Station Dr before Kings Canyon St",, -35.209740, 149.155273,,,0
@@ -2566,6 +2566,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
+7009,,"Valley Av before Manning Clark",, -35.188374, 149.142166,,,0
+7010,,"Valley Av after Manning Clark",, -35.188351, 149.139832,,,0
 8831,,"City Bus Stn Northbourne Av Plt 11",, -35.278988, 149.128860,,,0
 8888,,"Commonwealth Av Regetta Point",, -35.288395, 149.127823,,,0
 8889,,"Commonwealth Av after Albert Hall",, -35.288746, 149.127365,,,0
@@ -2576,6 +2578,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 940,,"Cohen St Bus Stn Plt 6",, -35.239998, 149.060287,,,0
 941,,"Cohen St Bus Stn Plt 1",, -35.239494, 149.060287,,,0
 942,,"Cohen St Bus Stn Plt 2",, -35.239609, 149.060165,,,0
-950,,"Aikman Dr Belconnen East Layover",, -35.240807, 149.075104,,,0
 956,,"Cohen St Bus Stn Arrivals",, -35.239738, 149.060013,,,0
 959,,"Cohen St Bus Stn",, -35.239902, 149.060211,,,0
