@@ -309,8 +309,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1336,,"Sternberg Cr before Wynne St",, -35.401199, 149.094986,,,0
 1337,,"Sternberg Cr after Wheeler Cr",, -35.402351, 149.092728,,,0
 1338,,"Sternberg Cr after Whiteman St",, -35.401035, 149.095200,,,0
-1339,,"Sternberg Cr after Langdon Av",, -35.401527, 149.098862,,,0
-1340,,"Sternberg Cr Erindale Centre",, -35.401470, 149.097214,,,0
+1339,,"Sternberg Cr after Langdon Av",, -35.401440, 149.098251,,,0
+1340,,"Sternberg Cr Erindale Centre",, -35.401695, 149.098679,,,0
 1341,,"Drakeford Dr after Boddington Cr",, -35.377342, 149.056198,,,0
 1342,,"Drakeford Dr after Sulwood Dr",, -35.377331, 149.056534,,,0
 1343,,"Marconi Cr opp Kambah Village",, -35.378929, 149.057632,,,0
@@ -598,6 +598,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1904,,"Knoke Av after Mina Wylie Cr",, -35.463902, 149.083176,,,0
 1905,,"Langdon Av Wanniassa Shops",, -35.391052, 149.086777,,,0
 1906,,"Langdon Av opp Wanniassa Shops",, -35.391087, 149.086945,,,0
+1907,,"Carruthers St before Theodore St",, -35.331821, 149.079285,,,0
+1908,,"Wanniassa Park and Ride",, -35.389587, 149.084686,,,0
+1909,,"Wanniassa Park and Ride",, -35.390179, 149.083557,,,0
 2,,"Athllon Dr after Learmonth Dr",, -35.402611, 149.064743,,,0
 2000,,"Egglestone after Maclaurin",, -35.353077, 149.080521,,,0
 2002,,"Launceston St opp Phillip Oval",, -35.340801, 149.084457,,,0
@@ -2150,7 +2153,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4736,,"Jabanungga Av after Taylor St",, -35.171597, 149.105240,,,0
 4737,,"Jabanungga Av before 2nd Bimbiang Cr",, -35.171013, 149.104019,,,0
 4742,,"Gurrang Av after Wanganeen Av",, -35.170971, 149.110764,,,0
-4743,,"Gurrang Av after Barunga St",, -35.172390, 149.114594,,,0
+4743,,"Gurrang Av after Barunga St",, -35.172337, 149.114594,,,0
 4744,,"Gurrang Av after Saunders St",, -35.175014, 149.113846,,,0
 4745,,"Amagula Av after Ferguson Cct",, -35.176849, 149.113617,,,0
 4746,,"Amagula Av after Taggerty St",, -35.178654, 149.114532,,,0
@@ -2158,8 +2161,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4748,,"Amagula Av after Bungaree Cr",, -35.181511, 149.112747,,,0
 4749,,"Federal Hwy after Phillip Av",, -35.236713, 149.142899,,,0
 4750,,"Federal Hwy opp Phillip Av",, -35.235661, 149.143860,,,0
-4751,,"Flemington Rd Exhibition Park",, -35.231899, 149.145004,,,0
-4752,,"Flemington Rd opp Exhibition Park",, -35.231068, 149.144760,,,0
 4753,,"Gurrang Ave after Marungul Av",, -35.174648, 149.113815,,,0
 4754,,"Sandford St after Flemington Rd",, -35.221085, 149.142700,,,0
 4755,,"Sandford & Brookes St",, -35.220650, 149.141144,,,0
@@ -2539,6 +2540,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6189,,"Nullarbor Av before Katoomba St",, -35.201176, 149.151443,,,0
 6191,,"Oodgeroo Av before Marie Pitt St",, -35.196114, 149.145706,,,0
 6192,,"Oodgeroo Av after Marie Pitt St",, -35.196655, 149.145889,,,0
+6193,,"Anthony Rolfe Av after Horse Park Dr",, -35.185036, 149.155121,,,0
+6194,,"Horse Park Dr after Gecko Way",, -35.184891, 149.156494,,,0
+6195,,"Horse Park Dr before Dugong Way",, -35.191357, 149.160858,,,0
+6198,,"Horse Park Dr after Mapleton Av",, -35.189983, 149.160004,,,0
 6302,,"Mulligans Flat Rd after Mabo Bvd",, -35.165035, 149.141418,,,0
 6304,,"Overall Av after Shedden St",, -35.171078, 149.094757,,,0
 6305,,"Overall Av after Horse Park Dr",, -35.171246, 149.095490,,,0

@@ -1,3 +1,1 @@
 service_id,date,exception_type
-2016-COMBNXT-Weekday-11,20170612,2
-2016-COMBNXT-Sunday-11,20170612,1
