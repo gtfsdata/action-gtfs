@@ -589,6 +589,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1809,,"Opp North Weston Park & Ride",, -35.322590, 149.057617,,,0
 1810,,"Anketell St opp Tuggeranong Pool",, -35.412277, 149.063309,,,0
 1811,,"Chippindall Cct Theodore Terminus Off Street",, -35.453056, 149.118561,,,0
+1812,,"Box Hill Av Lanyon Market TERMINATING STOP ONLY",, -35.456333, 149.092422,,,0
 1815,,"Barr Smith Av before Burgoyne Cr",, -35.429012, 149.074585,,,0
 1816,,"Barr Smith Av after Coombe St",, -35.428802, 149.074738,,,0
 1821,,"City West Platform 1",, -35.279144, 149.125580,,,0
@@ -666,6 +667,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2063,,"Eggleston Cr after MacDonald St",, -35.349594, 149.076141,,,0
 2064,,"Eggleston Cr after Plunkett St",, -35.349674, 149.076187,,,0
 2065,,"Launceston St before Dennes Pl",, -35.346676, 149.074127,,,0
+2066,,"Launceston St after Dennes Pl",, -35.346725, 149.074036,,,0
 2067,,"Launceston St after Tarraleah Cr",, -35.343410, 149.074524,,,0
 2068,,"Launceston St after Port Arthur St",, -35.342861, 149.074677,,,0
 2069,,"Launceston St Lyons Shops",, -35.339706, 149.076981,,,0
@@ -1173,6 +1175,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2812,,"John Gorton Dr after Harold White Ave",, -35.325386, 149.044632,,,0
 2814,,"Woden Bus Stn Plt 14",, -35.344456, 149.087234,,,0
 2815,,"Woden Bus Stn Plt 15",, -35.344456, 149.087234,,,0
+2818,,"Bielski St after Heseltine St",, -35.306557, 149.026306,,,0
 2820,,"Streeton Drive after Unwin Pl",, -35.329182, 149.053925,,,0
 2821,,"Streeton Drive after Dixon Dr",, -35.327950, 149.053528,,,0
 2822,,"Cotter Road After Streeton Drive",, -35.326969, 149.052643,,,0
@@ -1404,6 +1407,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3261,,"Parkes Pl National Rose Gdns",, -35.301182, 149.133728,,,0
 3262,,"National Cct Pavillion after Fitzroy St",, -35.314056, 149.130371,,,0
 3263,,"National Cct opp Fitzroy St",, -35.313805, 149.130569,,,0
+3270,,"Monaro Cr after Golden Gr",, -35.329659, 149.128189,,,0
+3271,,"Monaro Cr after Flinders Wy",, -35.329124, 149.128067,,,0
 3272,,"Golden Gr before Monaro Cr",, -35.331577, 149.128815,,,0
 3273,,"Golden Gr opp SBG School",, -35.331882, 149.128540,,,0
 3274,,"Golden Gr after Friendship St",, -35.334904, 149.125687,,,0
@@ -2270,8 +2275,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4924,,"Brookes St after Buckland St",, -35.216797, 149.141251,,,0
 4925,,"Brookes St after Heffernan St",, -35.219284, 149.140839,,,0
 4926,,"Brookes St after Sandford St",, -35.219009, 149.140808,,,0
-4927,,"Flemington Rd before Exhibition Park",, -35.227066, 149.144226,,,0
-4928,,"Flemington Rd after Randwick Rd",, -35.227226, 149.143967,,,0
 4931,,"Alpen St after Alfred Hill Dr",, -35.204399, 149.060165,,,0
 4932,,"Shakespeare Cr Fraser Opp West Terminus",, -35.190842, 149.035538,,,0
 4933,,"Daley Cr opp Fraser East Terminus",, -35.189999, 149.047211,,,0
@@ -2571,8 +2574,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
+7002,,"Gungahlin Market Place",, -35.185246, 149.133453,,,0
 7009,,"Valley Av before Manning Clark",, -35.188374, 149.142166,,,0
-7010,,"Valley Av after Manning Clark",, -35.188351, 149.139832,,,0
+7010,,"Valley Av after Manning Clark",, -35.188339, 149.140594,,,0
 8831,,"City Bus Stn Northbourne Av Plt 11",, -35.278988, 149.128860,,,0
 8888,,"Commonwealth Av Regetta Point",, -35.288395, 149.127823,,,0
 8889,,"Commonwealth Av after Albert Hall",, -35.288746, 149.127365,,,0
