@@ -1,4 +1,1 @@
 service_id,date,exception_type
-2016-COMBNXT-Sunday-13,20170925,1
-2016-COMBNXT-Sunday-13,20171002,1
-2016-COMBNXTV-Weekday-05,20171002,2

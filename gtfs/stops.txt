@@ -59,7 +59,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1063,,"Scollay St Tuggeranong Bus Depot",, -35.422657, 149.069733,,,0
 1064,,"Scollay St after Reed St",, -35.421806, 149.069229,,,0
 1065,,"Anketell St Bunnings Tuggeranong",, -35.422695, 149.072906,,,0
-1066,,"Anketell St opp Actew AGL",, -35.422523, 149.072922,,,0
+1066,,"Anketell St opp Actew AGL",, -35.423710, 149.073868,,,0
 1067,,"Anketell St opp Tuggeranong Square",, -35.419796, 149.070847,,,0
 1068,,"Anketell St after Bunnings Warehouse",, -35.419975, 149.070831,,,0
 1069,,"Ellerston Av before Noorooma Av",, -35.430393, 149.088165,,,0
@@ -594,7 +594,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1816,,"Barr Smith Av after Coombe St",, -35.428802, 149.074738,,,0
 1821,,"City West Platform 1",, -35.279144, 149.125580,,,0
 1825,,"IKEA Majura Rd after Spitfire Av",, -35.296085, 149.187698,,,0
-1901,,"Burnie St before Launceston",, -35.346191, 149.074615,,,0
 1903,,"Callaway Cr after 2nd Myles Connell Cr",, -35.461906, 149.082230,,,0
 1904,,"Knoke Av after Mina Wylie Cr",, -35.463902, 149.083176,,,0
 1905,,"Langdon Av Wanniassa Shops",, -35.391052, 149.086777,,,0
@@ -603,7 +602,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1908,,"Wanniassa Park and Ride",, -35.389587, 149.084686,,,0
 1909,,"Wanniassa Park and Ride",, -35.390179, 149.083557,,,0
 2,,"Athllon Dr after Learmonth Dr",, -35.402611, 149.064743,,,0
-2000,,"Egglestone after Maclaurin",, -35.353077, 149.080521,,,0
 2002,,"Launceston St opp Phillip Oval",, -35.340801, 149.084457,,,0
 2003,,"Theodore St before James St",, -35.335697, 149.081253,,,0
 2004,,"Theodore St before 2nd James St",, -35.333496, 149.079742,,,0
@@ -832,7 +830,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2247,,"Commonwealth Av opp Albert Hall",, -35.297890, 149.126297,,,0
 2248,,"Commonwealth Av Albert Hall",, -35.297775, 149.125885,,,0
 2249,,"Nemarang Cr after Galibal St",, -35.352322, 149.066879,,,0
-2250,,"Egglestone Cr before Charteris Cr",, -35.353123, 149.080780,,,0
 2251,,"Nemarang Cr after Yiman St",, -35.352528, 149.067154,,,0
 2252,,"Sydney Av before State Cir",, -35.311256, 149.129135,,,0
 2253,,"Sydney Av after State Cir",, -35.311089, 149.129776,,,0
@@ -919,11 +916,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2353,,"Kootara Cr Narrabundah PS",, -35.329926, 149.150986,,,0
 2354,,"Kootara Cr after Yamba Pl",, -35.328892, 149.150085,,,0
 2355,,"Kootara Cr after McMillan St",, -35.327324, 149.149506,,,0
-2356,,"McMillan Cr after Sturt Av",, -35.325417, 149.147888,,,0
-2357,,"Mckinlay St after McMillan St",, -35.327206, 149.147125,,,0
-2358,,"McKinlay St after Frome St",, -35.327301, 149.147003,,,0
-2359,,"McKinlay St after Warburton St",, -35.330059, 149.146667,,,0
-2360,,"McKinlay St after McIntyre St",, -35.330208, 149.146530,,,0
 2361,,"McIntyre St after Stuart St",, -35.331470, 149.145325,,,0
 2362,,"McIntyre St after McKinlay Pl",, -35.331757, 149.145020,,,0
 2363,,"Stuart St after McIntyre St",, -35.330776, 149.143753,,,0
@@ -991,7 +983,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2438,,"Carbeen St after 2nd Santalum St",, -35.342384, 149.045517,,,0
 2439,,"Kootara Cr after 2nd Gymea St",, -35.332767, 149.156052,,,0
 2444,,"Kootara Cr after Sturt Av service Rd",, -35.326260, 149.149170,,,0
-2445,,"McMillan Cr after Wills St",, -35.325481, 149.148422,,,0
 2446,,"Brisbane Av after National Cct",, -35.309296, 149.132553,,,0
 2447,,"Brisbane Av after State Cir",, -35.308884, 149.132950,,,0
 2448,,"Novar St before Kintore Cr",, -35.312031, 149.098297,,,0
@@ -1106,12 +1097,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2615,,"133 Gladstone Street Fyshwick",, -35.324017, 149.182388,,,0
 2616,,"Gladstone St before Albany St",, -35.325375, 149.183655,,,0
 2617,,"Bateson Road after Hospital Road",, -35.348598, 149.102798,,,0
-262,,"Eggleston Cr 2nd after MacLaurin Cr",, -35.351879, 149.084030,,,0
 2623,,"Newcastle St after Wollongong St",, -35.328876, 149.178299,,,0
 2624,,"Whyalla St after Newcastle St",, -35.333157, 149.175461,,,0
 2625,,"Whyalla St 2nd after Newcastle St",, -35.334049, 149.173203,,,0
 2626,,"Canberra Av Service Rd after Whyalla St",, -35.334335, 149.169830,,,0
-263,,"Eggleston Cr after Melrose Dr",, -35.352028, 149.084030,,,0
+2628,,"Dalrymple St before La Perouse St",, -35.339432, 149.136658,,,0
+2629,,"Dalrymple St before Logan St",, -35.338985, 149.136353,,,0
 2634,,"Canberra Av after Ipswich St",, -35.330421, 149.161118,,,0
 2638,,"Groom St St. Andrews Village",, -35.328979, 149.088531,,,0
 2639,,"Groom St opp St. Andrews Village",, -35.328667, 149.088669,,,0
@@ -1142,7 +1133,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2678,,"Canberra Av before Mildura St",, -35.326702, 149.155518,,,0
 2679,,"Corinna St Westfield Woden",, -35.345917, 149.084213,,,0
 2680,,"Canberra Av after Nyrang St",, -35.325695, 149.153412,,,0
-2682,,"Sydney Av before National Cct",, -35.312954, 149.131989,,,0
 2687,,"Athllon Dr 2nd after Hindmarsh Dr",, -35.355431, 149.091614,,,0
 2688,,"Athllon Dr after Parramatta St",, -35.354038, 149.091309,,,0
 2690,,"Namatjira Dr opp Mirinjani Village",, -35.339348, 149.054688,,,0
@@ -1181,12 +1171,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2822,,"Cotter Road After Streeton Drive",, -35.326969, 149.052643,,,0
 2824,,"Iron Knob Street Park and Ride",, -35.338688, 149.182785,,,0
 2825,,"Canberra Avenue after Whyalla St",, -35.335949, 149.172775,,,0
+2826,,"Wyndham Av after Bielski St",, -35.305351, 149.026993,,,0
 2903,,"Woden Bus Stn Plt 18",, -35.344154, 149.086624,,,0
 2916,,"Woden Bus Stn Arrivals",, -35.344475, 149.087250,,,0
 2919,,"Ipswich St before Canberra Av",, -35.329094, 149.162796,,,0
 2925,,"National Cct Forrest PS after Hobart Av",, -35.315483, 149.126663,,,0
 2926,,"National Cct Forrest PS before Hobart Av",, -35.315571, 149.126541,,,0
-2928,,"Captain Cook Cr after Jerrabomberra Av",, -35.334805, 149.145660,,,0
 2937,,"Clunies Ross St before Barry Dr",, -35.273247, 149.116516,,,0
 2941,,"Newcastle St after Gladstone St",, -35.324993, 149.172318,,,0
 2943,,"Canberra Av after Geelong St",, -35.333351, 149.167465,,,0
@@ -1223,7 +1213,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3036,,"London Cct Metropolitan Bldg",, -35.282700, 149.125549,,,0
 3037,,"London Cct opp City Police Station",, -35.280643, 149.125992,,,0
 3042,,"Alinga St Canberra House(Plt 12)",, -35.278252, 149.127029,,,0
-3044,,"Matina St Narrabundah Terminus",, -35.331421, 149.158905,,,0
 3047,,"Marcus Clarke St after Farrell St",, -35.281334, 149.124023,,,0
 3051,,"Ainslie Av after Cooyong St",, -35.278721, 149.136536,,,0
 3052,,"Canberra Centre City",, -35.279419, 149.135025,,,0
@@ -1399,8 +1388,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3248,,"Knox St 2nd after Dickinson St",, -35.237980, 149.153641,,,0
 3250,,"Knox St after Piddington St",, -35.234707, 149.151703,,,0
 3252,,"Knox St opp old Watson Terminus",, -35.232521, 149.153198,,,0
-3256,,"Monaro Cr before Carnegie Cr",, -35.334587, 149.131195,,,0
-3257,,"Carnegie Cr before Monaro Cr",, -35.336296, 149.132706,,,0
 3258,,"King Edward Tce National Library",, -35.297958, 149.129272,,,0
 3259,,"King Edward Tce Treasury Building",, -35.298038, 149.128983,,,0
 3260,,"Parkes Pl John Gorton Building",, -35.301186, 149.133881,,,0
@@ -1421,25 +1408,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3281,,"La Perouse St after Golden Gr",, -35.339790, 149.127014,,,0
 3282,,"La Perouse St after Fortitude St",, -35.340622, 149.132217,,,0
 3283,,"La Perouse St before Nuyts St",, -35.340313, 149.128723,,,0
-3284,,"La Perouse St after Carnegie Cr",, -35.338120, 149.135788,,,0
 3285,,"La Perouse St after Nuyts St",, -35.340645, 149.131012,,,0
-3286,,"Carnegie Cr after Finniss Cr",, -35.337017, 149.136597,,,0
 3287,,"La Perouse St after Astrolabe St",, -35.339817, 149.134018,,,0
-3288,,"Carnegie Cr after Scott St",, -35.336899, 149.140656,,,0
-3289,,"La Perouse St 2nd after Astrolabe St",, -35.338253, 149.135666,,,0
-3291,,"Carnegie Cr after La Perouse St",, -35.336948, 149.136734,,,0
-3293,,"Carnegie Cr after Brockman St",, -35.336689, 149.140823,,,0
 3294,,"Captain Cook Cr after Lockyer St",, -35.325779, 149.135254,,,0
 3296,,"Bremer St after Captain Cook Cr",, -35.329002, 149.134689,,,0
-3298,,"La Perouse St after Bremer St",, -35.330307, 149.132996,,,0
 3299,,"Captain Cook Cr after Bremer St",, -35.326878, 149.135208,,,0
-3300,,"La Perouse St 2nd after Bremer St",, -35.331547, 149.133926,,,0
 3301,,"Bremer St after La Perouse St",, -35.328976, 149.134430,,,0
-3303,,"La Perouse St 2nd after Hartog St",, -35.330101, 149.132736,,,0
-3305,,"La Perouse St after Hartog St",, -35.331772, 149.133942,,,0
-3308,,"Carnegie Cr after Walker St",, -35.334557, 149.143524,,,0
-3310,,"Captain Cook Cr after McIntyre St",, -35.334396, 149.145630,,,0
-3313,,"Carnegie Cr after Captain Cook Cr",, -35.334686, 149.143585,,,0
 3318,,"Canberra Railway Station Kingston",, -35.319523, 149.148636,,,0
 3319,,"Fred Daly after John Gorton",, -35.318909, 149.038162,,,0
 3320,,"Railway Station Kingston",, -35.320068, 149.149048,,,0
@@ -2032,9 +2006,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4576,,"Macarthur Av after Peel St",, -35.259407, 149.119156,,,0
 4577,,"Macarthur Av before Coolibah Cr",, -35.259346, 149.121719,,,0
 4578,,"Macarthur Av Macpherson St",, -35.259701, 149.121735,,,0
-4583,,"Antill St & Pigot St",, -35.248356, 149.136246,,,0
 4584,,"Antill St after Badham St",, -35.248631, 149.136902,,,0
-4585,,"Antill St opp Dickson Shops",, -35.248688, 149.139633,,,0
 4586,,"Antill St Dickson Shops",, -35.248947, 149.140060,,,0
 4587,,"Antill St after Melba St",, -35.248493, 149.144653,,,0
 4588,,"Antill St after Hawdon Pl",, -35.248737, 149.144562,,,0
@@ -2363,7 +2335,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5052,,"Gundaroo Dr after Nudurr Dr",, -35.196766, 149.105728,,,0
 5053,,"Gundaroo Dr before Burrowa St",, -35.193871, 149.110733,,,0
 5054,,"Gundaroo Dr after Burrowa St",, -35.193863, 149.110855,,,0
-5056,,"Gungahlin Plt 1 Gozzard",, -35.184669, 149.132507,,,0
 5058,,"Curran Dr after McClelland Av South Entry",, -35.185410, 149.084976,,,0
 5059,,"Curran Dr before McClelland Av",, -35.185497, 149.085205,,,0
 5060,,"Curran Dr 2nd after McClelland Av",, -35.184422, 149.088760,,,0
@@ -2395,8 +2366,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5086,,"Gozzard St after Gundaroo Rd",, -35.181793, 149.133209,,,0
 5088,,"Spofforth St before Drake Brockman Dr",, -35.228722, 149.007156,,,0
 5089,,"Spofforth St after Strockdill Dr",, -35.228760, 149.007019,,,0
-5090,,"La Perouse St after Caley Cr",, -35.334103, 149.135483,,,0
-5091,,"La Perouse St after Hamelin Cr",, -35.333946, 149.135330,,,0
 5096,,"Baldwin Dr after Chuculba Cr",, -35.218678, 149.096619,,,0
 5097,,"Baldwin Dr before Chuculba Cr",, -35.218632, 149.096756,,,0
 5098,,"Lance Hill Av after Shrivell Cct",, -35.197163, 149.021835,,,0
@@ -2513,7 +2482,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6145,,"Anthony Rolfe Av 3rd after Kate Crace St",, -35.185642, 149.149368,,,0
 6148,,"Langtree Cr after Avenal St",, -35.205257, 149.109680,,,0
 6149,,"Langtree Cr after Cocoparra Cr",, -35.205276, 149.109024,,,0
-6151,,"City Bus Stn Northbourne Av Plt 10",, -35.278965, 149.129440,,,0
 6152,,"Langtree Cr after Fergus St",, -35.203999, 149.114258,,,0
 6155,,"Bimberi Centre",, -35.222591, 149.156113,,,0
 6156,,"Ashburton Cct Kaleen PS SSO",, -35.224636, 149.113159,,,0
@@ -2577,7 +2545,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7002,,"Gungahlin Market Place",, -35.185246, 149.133453,,,0
 7009,,"Valley Av before Manning Clark",, -35.188374, 149.142166,,,0
 7010,,"Valley Av after Manning Clark",, -35.188339, 149.140594,,,0
-8831,,"City Bus Stn Northbourne Av Plt 11",, -35.278988, 149.128860,,,0
 8888,,"Commonwealth Av Regetta Point",, -35.288395, 149.127823,,,0
 8889,,"Commonwealth Av after Albert Hall",, -35.288746, 149.127365,,,0
 9,,"Athllon Dr opp Centrelink Office",, -35.420280, 149.065979,,,0
@@ -2587,5 +2554,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 940,,"Cohen St Bus Stn Plt 6",, -35.239998, 149.060287,,,0
 941,,"Cohen St Bus Stn Plt 1",, -35.239494, 149.060287,,,0
 942,,"Cohen St Bus Stn Plt 2",, -35.239609, 149.060165,,,0
+945,,"Dickson Interchange Plt 1",, -35.251049, 149.134933,,,0
+946,,"Dickson Interchange Plt 2",, -35.251122, 149.134430,,,0
 956,,"Cohen St Bus Stn Arrivals",, -35.239738, 149.060013,,,0
 959,,"Cohen St Bus Stn",, -35.239902, 149.060211,,,0
