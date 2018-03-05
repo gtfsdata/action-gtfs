@@ -1397,7 +1397,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3270,,"Monaro Cr after Golden Gr",, -35.329659, 149.128189,,,0
 3271,,"Monaro Cr after Flinders Wy",, -35.329124, 149.128067,,,0
 3272,,"Golden Gr before Monaro Cr",, -35.331577, 149.128815,,,0
-3273,,"Golden Gr opp SBG School",, -35.331882, 149.128540,,,0
+3273,,"Golden Gr opp CSG School",, -35.331882, 149.128540,,,0
 3274,,"Golden Gr after Friendship St",, -35.334904, 149.125687,,,0
 3275,,"Golden Gr after Hicks St",, -35.334293, 149.126236,,,0
 3276,,"Golden Gr 2nd after La Perouse St",, -35.336662, 149.125748,,,0
@@ -2335,6 +2335,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5052,,"Gundaroo Dr after Nudurr Dr",, -35.196766, 149.105728,,,0
 5053,,"Gundaroo Dr before Burrowa St",, -35.193871, 149.110733,,,0
 5054,,"Gundaroo Dr after Burrowa St",, -35.193863, 149.110855,,,0
+5056,,"Gungahlin Plt 1 Gozzard",, -35.184669, 149.132507,,,0
 5058,,"Curran Dr after McClelland Av South Entry",, -35.185410, 149.084976,,,0
 5059,,"Curran Dr before McClelland Av",, -35.185497, 149.085205,,,0
 5060,,"Curran Dr 2nd after McClelland Av",, -35.184422, 149.088760,,,0
@@ -2542,7 +2543,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6338,,"David Walsh before Horse Park Dr",, -35.178852, 149.144730,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178909, 149.144272,,,0
 6666,,"Alexander Maconochie Centre",, -35.372116, 149.170013,,,0
-7002,,"Gungahlin Market Place",, -35.185246, 149.133453,,,0
 7009,,"Valley Av before Manning Clark",, -35.188374, 149.142166,,,0
 7010,,"Valley Av after Manning Clark",, -35.188339, 149.140594,,,0
 8888,,"Commonwealth Av Regetta Point",, -35.288395, 149.127823,,,0
