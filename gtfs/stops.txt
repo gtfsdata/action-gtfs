@@ -589,7 +589,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1809,,"Opp North Weston Park & Ride",, -35.322591, 149.057622,,,0
 1810,,"Anketell St opp Tuggeranong Pool",, -35.412279, 149.063313,,,0
 1811,,"Chippindall Cct Theodore Terminus Off Street",, -35.453058, 149.118563,,,0
-1812,,"Box Hill Av Lanyon Market TERMINATING STOP ONLY",, -35.456335, 149.092419,,,0
+1812,,"Box Hill Av Lanyon Market TERMINATING STOP ONLY",, -35.456354, 149.092463,,,0
 1815,,"Barr Smith Av before Burgoyne Cr",, -35.429014, 149.074577,,,0
 1816,,"Barr Smith Av after Coombe St",, -35.428804, 149.074735,,,0
 1821,,"City West Platform 1",, -35.279146, 149.125574,,,0
@@ -1957,7 +1957,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4517,,"Bowman St opp Jamison Centre",, -35.252529, 149.072790,,,0
 4518,,"Bowman St Jamison Centre",, -35.252547, 149.072660,,,0
 4521,,"Bandjalong Cr Aranda Primary",, -35.256204, 149.079656,,,0
-4522,,"Bandjalong Cr opp Aranda Primary",, -35.256348, 149.079297,,,0
+4522,,"Bandjalong Cr opp Aranda Primary",, -35.256195, 149.078506,,,0
 4523,,"Bandjalong Cr after Banambila St",, -35.257332, 149.082290,,,0
 4524,,"Bandjalong Cr after Wangara Cr",, -35.257360, 149.082128,,,0
 4525,,"Bandjalong before Banambila St",, -35.259004, 149.084678,,,0
@@ -2433,11 +2433,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6029,,"Gundaroo Dr after Nellie Hamilton Av",, -35.180275, 149.135451,,,0
 6030,,"Gundaroo Dr before Nari St",, -35.183799, 149.124568,,,0
 6031,,"Gundaroo Dr after Ginn St",, -35.183950, 149.124446,,,0
+6032,,"Katherine Av before Cooloola St",, -35.169542, 149.131802,,,0
+6033,,"Katherine Av after 2nd Benaroon Cct",, -35.170167, 149.134901,,,0
 6034,,"Katherine Av after Benaroon Cct",, -35.169593, 149.137850,,,0
+6035,,"Katherine Av after Horse Park Dr",, -35.169806, 149.137682,,,0
 6036,,"Flemington Rd after Sandford St",, -35.220104, 149.144883,,,0
 6037,,"Flemington Rd after Lysaght St",, -35.217923, 149.145372,,,0
 6045,,"Kerrigan St after Lance Hill Av",, -35.193226, 149.018717,,,0
 6046,,"Kerrigan St before Lance Hill Av",, -35.193116, 149.018833,,,0
+6048,,"Katherine Av after Auburn St",, -35.167853, 149.127872,,,0
+6049,,"Katherine Av after Marrett St",, -35.169272, 149.129446,,,0
 6050,,"Nullarbor Av after Cultivation St",, -35.202050, 149.156836,,,0
 6051,,"Nullarbor Av after Katoomba St",, -35.201965, 149.156548,,,0
 6052,,"Cultivation St after Encounter St",, -35.200195, 149.158347,,,0
@@ -2472,6 +2477,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6090,,"Amy Ackman St after Jessie St",, -35.166279, 149.145078,,,0
 6091,,"Amy Ackman St before Jessie St",, -35.166789, 149.144392,,,0
 6100,,"Redruth St before Abena Av",, -35.201876, 149.106915,,,0
+6102,,"Bernard Heinze Av before Tycho St",, -35.157853, 149.122278,,,0
+6105,,"Mirrabei Dr after Yamma Way",, -35.155824, 149.114397,,,0
 6130,,"The Valley Av after Gozzard St",, -35.186889, 149.129587,,,0
 6131,,"The Valley Av East of Warwick St",, -35.186798, 149.129603,,,0
 6132,,"The Valley Av West of Warwick St",, -35.186475, 149.126580,,,0
@@ -2485,6 +2492,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6149,,"Langtree Cr after Cocoparra Cr",, -35.205278, 149.109019,,,0
 6152,,"Langtree Cr after Fergus St",, -35.204000, 149.114262,,,0
 6153,,"Wimmera St Harrison PS SSO",, -35.198689, 149.151040,,,0
+6154,,"Amaroo PS turnaround at rear SSO",, -35.164467, 149.130583,,,0
 6155,,"Bimberi Centre",, -35.222591, 149.156114,,,0
 6156,,"Ashburton Cct Kaleen PS SSO",, -35.224637, 149.113164,,,0
 6157,,"Langtree Cr after Geegeela St",, -35.205044, 149.113904,,,0
