@@ -1158,6 +1158,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2731,,"Kent St North of Strickland Cr",, -35.317149, 149.098201,,,0
 2732,,"State Cir after Melbourne Av",, -35.312233, 149.123345,,,0
 2803,,"Steve Irwin Ave after David Fleay St",, -35.324372, 149.036256,,,0
+2804,,"Woden Bus Stn Plt 4",, -35.344460, 149.087243,,,0
 2805,,"Steve Irwin Ave after Dot Butler St",, -35.324558, 149.036357,,,0
 2806,,"Steve Irwin Ave after John Gorton Dr",, -35.320231, 149.036817,,,0
 2809,,"John Gorton Dr after Steve Irwin Ave",, -35.319416, 149.036656,,,0
