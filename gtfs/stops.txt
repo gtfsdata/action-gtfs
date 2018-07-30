@@ -273,7 +273,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1297,,"O'Halloran Cct after 2nd Jenke Cct",, -35.394099, 149.065924,,,0
 1298,,"O'Halloran Cct after 2nd Snodgrass Cr",, -35.393972, 149.065792,,,0
 1299,,"O'Halloran Cct opp. Namadgi School",, -35.393073, 149.067676,,,0
-13,,"Tuggeranong Stn Arrivals",, -35.414871, 149.066030,,,0
+13,,"Tuggeranong Stn Arrivals",, -35.414871, 149.066030,,http://www.transport.act.gov.au/__data/assets/pdf_file/0017/1111049/TC_station_tuggeranong.pdf,0
 1300,,"O'Halloran Cct Namadgi School Kambah",, -35.392579, 149.068207,,,0
 1301,,"Summerland Cct after Vanzetti Cr",, -35.391096, 149.071581,,,0
 1302,,"Summerland Cct before Kingsmill St",, -35.390979, 149.071495,,,0
@@ -533,6 +533,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1638,,"Forsythe St before Pockett Av",, -35.474490, 149.094704,,,0
 1639,,"Forsythe St after Pockett Av",, -35.474525, 149.094926,,,0
 1640,,"Mt Vernon Dr Gleneagles",, -35.388978, 149.032491,,,0
+1641,,"Lanyon Market Place TERMINATING STOP ONLY",, -35.456203, 149.092232,,,0
 1642,,"Barraclough Cr opp Retirement Village",, -35.416332, 149.096259,,,0
 1650,,"Lawrence Wackett Cr after Scantlebury Cr",, -35.442652, 149.122792,,,0
 1651,,"Barraclough Cr Retirement Village",, -35.416280, 149.095901,,,0
@@ -569,7 +570,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1697,,"Barr Smith Av 2nd after Coombe St",, -35.430952, 149.075074,,,0
 1698,,"Bugden Av opp Holy Family PS",, -35.410007, 149.118394,,,0
 1699,,"Bugden Av Holy Family PS",, -35.410011, 149.118277,,,0
-1723,,"City Bus Stn Arrivals",, -35.278552, 149.130596,,,0
+1723,,"City Bus Stn Arrivals",, -35.278552, 149.130596,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
 1733,,"Palmer St after Bateson St",, -35.348012, 149.102819,,,0
 1734,,"Canberra Hospital after Gilmore Cr",, -35.346021, 149.101947,,,0
 1766,,"Barrier St after Pirie St",, -35.326234, 149.167513,,,0
@@ -582,10 +583,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1791,,"Summerland Cct after Mannheim St",, -35.385383, 149.073318,,,0
 1792,,"Summerland Cct Village Creek Primary",, -35.385438, 149.073249,,,0
 1802,,"North Weston Park & Ride",, -35.321680, 149.058296,,,0
-1803,,"Tuggeranong Stn Plt 3",, -35.414718, 149.065763,,,0
-1804,,"Tuggeranong Stn Plt 4",, -35.414423, 149.065556,,,0
-1807,,"Tuggeranong Stn Plt 7",, -35.414582, 149.065389,,,0
-1808,,"Tuggeranong Stn Plt 8",, -35.414919, 149.065658,,,0
+1803,,"Tuggeranong Stn Plt 3",, -35.414718, 149.065763,,http://www.transport.act.gov.au/__data/assets/pdf_file/0017/1111049/TC_station_tuggeranong.pdf,0
+1804,,"Tuggeranong Stn Plt 4",, -35.414423, 149.065556,,http://www.transport.act.gov.au/__data/assets/pdf_file/0017/1111049/TC_station_tuggeranong.pdf,0
+1807,,"Tuggeranong Stn Plt 7",, -35.414582, 149.065389,,http://www.transport.act.gov.au/__data/assets/pdf_file/0017/1111049/TC_station_tuggeranong.pdf,0
+1808,,"Tuggeranong Stn Plt 8",, -35.414919, 149.065658,,http://www.transport.act.gov.au/__data/assets/pdf_file/0017/1111049/TC_station_tuggeranong.pdf,0
 1809,,"Opp North Weston Park & Ride",, -35.322591, 149.057622,,,0
 1810,,"Anketell St opp Tuggeranong Pool",, -35.412279, 149.063313,,,0
 1811,,"Chippindall Cct Theodore Terminus Off Street",, -35.453058, 149.118563,,,0
@@ -1071,7 +1072,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2569,,"Conley Dr Melba HS SSO",, -35.213834, 149.049150,,,0
 2570,,"Wisdom St Malkara School",, -35.337401, 149.093736,,,0
 2571,,"Jerrabomberra Av Narrabundah CLG",, -35.335868, 149.147893,,,0
-2581,,"Brindabella Christian College SSO",, -35.249290, 149.127420,,,0
 2582,,"Streeton Dr after Namatjira Dr",, -35.355708, 149.048641,,,0
 2586,,"Parliament Dr Parliament House",, -35.307268, 149.122739,,,0
 2587,,"Parliament Dr New Parliament House",, -35.309077, 149.126087,,,0
@@ -1145,28 +1145,28 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2697,,"Tharwa Dr after Mentone View",, -35.445199, 149.093261,,,0
 2698,,"Tharwa Dr before Box Hill",, -35.454626, 149.091331,,,0
 2699,,"Tharwa Dr after Box Hill",, -35.454625, 149.090981,,,0
-2705,,"Woden Bus Stn Plt 5",, -35.344463, 149.087241,,,0
-2706,,"Woden Bus Stn Plt 6",, -35.344467, 149.087536,,,0
-2709,,"Woden Bus Stn Plt 9",, -35.344240, 149.087812,,,0
-2710,,"Woden Bus Stn Plt 10",, -35.343910, 149.087758,,,0
-2711,,"Woden Bus Stn Plt 11",, -35.343926, 149.087610,,,0
-2712,,"Woden Bus Stn Plt 12",, -35.344467, 149.087243,,,0
-2716,,"Woden Bus Stn Plt 16",, -35.344457, 149.087236,,,0
+2705,,"Woden Bus Stn Plt 5",, -35.344463, 149.087241,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2706,,"Woden Bus Stn Plt 6",, -35.344467, 149.087536,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2709,,"Woden Bus Stn Plt 9",, -35.344240, 149.087812,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2710,,"Woden Bus Stn Plt 10",, -35.343910, 149.087758,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2711,,"Woden Bus Stn Plt 11",, -35.343926, 149.087610,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2712,,"Woden Bus Stn Plt 12",, -35.344467, 149.087243,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2716,,"Woden Bus Stn Plt 16",, -35.344457, 149.087236,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
 2717,,"Jim Pike Av after Charlton Cr",, -35.460817, 149.078202,,,0
 2718,,"Soward Way after Athllon Dr",, -35.419474, 149.066372,,,0
 2730,,"Kent St after Macartney Cr",, -35.317013, 149.098298,,,0
 2731,,"Kent St North of Strickland Cr",, -35.317149, 149.098201,,,0
 2732,,"State Cir after Melbourne Av",, -35.312233, 149.123345,,,0
 2803,,"Steve Irwin Ave after David Fleay St",, -35.324372, 149.036256,,,0
-2804,,"Woden Bus Stn Plt 4",, -35.344460, 149.087243,,,0
+2804,,"Woden Bus Stn Plt 4",, -35.344460, 149.087243,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
 2805,,"Steve Irwin Ave after Dot Butler St",, -35.324558, 149.036357,,,0
 2806,,"Steve Irwin Ave after John Gorton Dr",, -35.320231, 149.036817,,,0
 2809,,"John Gorton Dr after Steve Irwin Ave",, -35.319416, 149.036656,,,0
 2810,,"John Gorton Dr after Fred Daly Ave",, -35.320016, 149.037916,,,0
 2811,,"John Gorton Dr after Cotter Rd",, -35.324779, 149.043384,,,0
 2812,,"John Gorton Dr after Harold White Ave",, -35.325386, 149.044625,,,0
-2814,,"Woden Bus Stn Plt 14",, -35.344457, 149.087241,,,0
-2815,,"Woden Bus Stn Plt 15",, -35.344454, 149.087238,,,0
+2814,,"Woden Bus Stn Plt 14",, -35.344457, 149.087241,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
+2815,,"Woden Bus Stn Plt 15",, -35.344454, 149.087238,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
 2818,,"Bielski St after Heseltine St",, -35.306556, 149.026303,,,0
 2820,,"Streeton Drive after Unwin Pl",, -35.329180, 149.053930,,,0
 2821,,"Streeton Drive after Dixon Dr",, -35.327950, 149.053530,,,0
@@ -1174,8 +1174,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2824,,"Iron Knob Street Park and Ride",, -35.338688, 149.182785,,,0
 2825,,"Canberra Avenue after Whyalla St",, -35.335951, 149.172779,,,0
 2826,,"Wyndham Av after Bielski St",, -35.305351, 149.026999,,,0
-2903,,"Woden Bus Stn Plt 18",, -35.344155, 149.086621,,,0
-2916,,"Woden Bus Stn Arrivals",, -35.344476, 149.087248,,,0
+2916,,"Woden Bus Stn Arrivals",, -35.344476, 149.087248,,http://www.transport.act.gov.au/__data/assets/pdf_file/0010/1111051/TC_station_woden.pdf,0
 2919,,"Ipswich St before Canberra Av",, -35.329094, 149.162797,,,0
 2925,,"National Cct Forrest PS after Hobart Av",, -35.315485, 149.126670,,,0
 2926,,"National Cct Forrest PS before Hobart Av",, -35.315571, 149.126543,,,0
@@ -1188,7 +1187,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2947,,"Mildura St before Leeton St Fyshwick",, -35.321131, 149.151903,,,0
 2948,,"Canberra Outlet Centre Iron Knob St",, -35.336291, 149.179587,,,0
 3,,"Athllon Dr before Learmonth Dr",, -35.402793, 149.065015,,,0
-3002,,"London Cct before East Row",, -35.279619, 149.130251,,,0
+3002,,"London Cct before East Row",, -35.279619, 149.130251,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
 3003,,"London Cct Commonwealth Bank",, -35.281562, 149.131859,,,0
 3004,,"London Cct after Akuna St",, -35.282280, 149.132090,,,0
 3005,,"Constitution Av Convention Centre",, -35.285100, 149.134189,,,0
@@ -1294,9 +1293,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3129,,"Cossington Smith Cr after Fairweather Cct",, -35.239918, 149.121775,,,0
 3130,,"Cossington Smith Cr after Piguenit Cl",, -35.236852, 149.123986,,,0
 3132,,"Cowper St Dickson Shops",, -35.250482, 149.140589,,,0
-3133,,"Mort St after Cooyong St",, -35.274219, 149.131253,,,0
 3134,,"Mort St before Cooyong St",, -35.274885, 149.131255,,,0
-3135,,"Mort St before Girrahween St",, -35.271960, 149.131615,,,0
 3137,,"Torrens St after Girrahween St",, -35.269960, 149.134598,,,0
 3138,,"Mort St after Girrahween St",, -35.270800, 149.131910,,,0
 3139,,"Torrens St before Ipima St",, -35.267979, 149.134919,,,0
@@ -1453,19 +1450,19 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3391,,"Knox St after Dickinson St",, -35.237021, 149.152391,,,0
 3398,,"Wattle St Lyneham Shops",, -35.252919, 149.125015,,,0
 3399,,"Menindee Dr ACT Hospice",, -35.303583, 149.151561,,,0
-3401,,"City Bus Stn Plt 1",, -35.279369, 149.130579,,,0
-3402,,"City Bus Stn Plt 2",, -35.279332, 149.130421,,,0
+3401,,"City Bus Stn Plt 1",, -35.279369, 149.130579,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
+3402,,"City Bus Stn Plt 2",, -35.279332, 149.130421,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
 3403,,"Braybrooke St after Masterman St",, -35.244700, 149.099700,,,0
-3404,,"City Bus Stn Plt 3",, -35.278735, 149.130509,,,0
-3405,,"City Bus Stn Plt 4",, -35.278543, 149.130100,,,0
-3406,,"City Bus Stn Plt 5",, -35.278507, 149.129700,,,0
+3404,,"City Bus Stn Plt 3",, -35.278735, 149.130509,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
+3405,,"City Bus Stn Plt 4",, -35.278543, 149.130100,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
+3406,,"City Bus Stn Plt 5",, -35.278507, 149.129700,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
 3407,,"Braybrooke St after Baytte St",, -35.244300, 149.099799,,,0
 3408,,"Thynne St after Paget St",, -35.243500, 149.098300,,,0
-3409,,"City Bus Stn Plt 7",, -35.278449, 149.130382,,,0
-3410,,"City Bus Stn Plt 8",, -35.277767, 149.130619,,,0
+3409,,"City Bus Stn Plt 7",, -35.278449, 149.130382,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
+3410,,"City Bus Stn Plt 8",, -35.277767, 149.130619,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
 3411,,"Thynne St after Watkins St",, -35.243300, 149.098300,,,0
 3412,,"Thynne St after Slowey Pl",, -35.239931, 149.097245,,,0
-3413,,"City Bus Stn Plt 9",, -35.278333, 149.130710,,,0
+3413,,"City Bus Stn Plt 9",, -35.278333, 149.130710,,http://www.transport.act.gov.au/__data/assets/pdf_file/0012/1111044/TC_station_city.pdf,0
 3414,,"Thynne St after Lampard Cct",, -35.239602, 149.096792,,,0
 3415,,"King Edward Tce before  Bowen Dr",, -35.301602, 149.135381,,,0
 3416,,"King Edward Tce after Bowen Dr",, -35.301196, 149.134381,,,0
@@ -1919,8 +1916,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4476,,"Petterd St opp Page Shops",, -35.240287, 149.052366,,,0
 4477,,"Ogilby Cr after Fletcher Pl",, -35.238740, 149.054740,,,0
 4478,,"Ogilby Cr after Kirchauff St",, -35.239071, 149.054218,,,0
-4479,,"Cohen St Bus Stn Plt 3",, -35.239884, 149.060270,,,0
-4480,,"Cohen St Bus Stn Plt 5",, -35.240120, 149.059685,,,0
+4479,,"Cohen St Bus Stn Plt 3",, -35.239884, 149.060270,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0
+4480,,"Cohen St Bus Stn Plt 5",, -35.240120, 149.059685,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0
 4481,,"Ginninderra Dr after Florey Dr",, -35.202679, 149.022047,,,0
 4482,,"Lance Hill Av before Ginninderra Dr",, -35.199308, 149.019576,,,0
 4483,,"Lance Hill Av after Ginninderra Dr",, -35.199308, 149.019484,,,0
@@ -1980,8 +1977,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4548,,"Mouat St opp Hockey Centre",, -35.245721, 149.127426,,,0
 4549,,"Mouat St Southwell Park",, -35.247905, 149.131491,,,0
 4550,,"Mouat St opp Southwell Park",, -35.248015, 149.131310,,,0
-4551,,"Northbourne Av Motor Registry",, -35.249930, 149.134127,,,0
-4552,,"Northbourne Av opp Motor Registry",, -35.250884, 149.133404,,,0
+4551,,"Northbourne Av Motor Registry",, -35.249930, 149.134127,,http://www.transport.act.gov.au/__data/assets/pdf_file/0015/1111047/TC_station_dickson.pdf,0
+4552,,"Northbourne Av opp Motor Registry",, -35.250884, 149.133404,,http://www.transport.act.gov.au/__data/assets/pdf_file/0015/1111047/TC_station_dickson.pdf,0
 4553,,"Northbourne Av before Morphett St",, -35.252831, 149.133652,,,0
 4554,,"Northbourne Av Lyneham Flats",, -35.253399, 149.132999,,,0
 4555,,"Northbourne Av The Pavilion",, -35.257677, 149.132865,,,0
@@ -2234,7 +2231,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4897,,"Ashkanasy Cr after Clancy St",, -35.210440, 149.069789,,,0
 4898,,"Ashkanasy Cr after Pitcairn St",, -35.210387, 149.069672,,,0
 4899,,"Kerrigan St before Traeger St",, -35.189241, 149.026405,,,0
-49,,"Tuggeranong Stn Plt 5",, -35.414204, 149.065410,,,0
+49,,"Tuggeranong Stn Plt 5",, -35.414204, 149.065410,,http://www.transport.act.gov.au/__data/assets/pdf_file/0017/1111049/TC_station_tuggeranong.pdf,0
 4904,,"Jabanunga Ave after Bindugan",, -35.163620, 149.104415,,,0
 4905,,"Jabanunga Ave after Yerradhang St",, -35.163784, 149.104220,,,0
 4907,,"Southern Cross Dr after Starke St",, -35.223073, 149.029917,,,0
@@ -2395,15 +2392,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5177,,"Baldwin Dr 2nd after Gum St",, -35.217290, 149.094496,,,0
 5178,,"Baldwin Dr 2nd after Chuculba Cr",, -35.217408, 149.094446,,,0
 5182,,"John Paul College",, -35.177066, 149.100304,,,0
-5501,,"Westfield Bus Stn",, -35.238971, 149.064032,,,0
-5502,,"Westfield Bus Stn",, -35.238593, 149.063650,,,0
-5503,,"Westfield Bus Stn Set Down Only",, -35.238789, 149.063804,,,0
-5511,,"Belconnen Community Stn Plt 1",, -35.239797, 149.069696,,,0
-5512,,"Belconnen Community Stn Plt 2",, -35.239779, 149.069179,,,0
-5513,,"Belconnen Community Stn Plt 3",, -35.239813, 149.068407,,,0
-5514,,"Belconnen Community Stn Plt 4",, -35.240093, 149.068052,,,0
-5515,,"Belconnen Community Stn Plt 5",, -35.240015, 149.068853,,,0
-5517,,"Belc.Community Stn Arrivals",, -35.239890, 149.069018,,,0
+5501,,"Westfield Bus Stn",, -35.238971, 149.064032,,http://www.transport.act.gov.au/__data/assets/pdf_file/0009/1111050/TC_station_westfield.pdf,0
+5502,,"Westfield Bus Stn",, -35.238593, 149.063650,,http://www.transport.act.gov.au/__data/assets/pdf_file/0009/1111050/TC_station_westfield.pdf,0
+5503,,"Westfield Bus Stn Set Down Only",, -35.238789, 149.063804,,http://www.transport.act.gov.au/__data/assets/pdf_file/0009/1111050/TC_station_westfield.pdf,0
+5511,,"Belconnen Community Stn Plt 1",, -35.239797, 149.069696,,http://www.transport.act.gov.au/__data/assets/pdf_file/0014/1111046/TC_station_community.pdf,0
+5512,,"Belconnen Community Stn Plt 2",, -35.239779, 149.069179,,http://www.transport.act.gov.au/__data/assets/pdf_file/0014/1111046/TC_station_community.pdf,0
+5513,,"Belconnen Community Stn Plt 3",, -35.239813, 149.068407,,http://www.transport.act.gov.au/__data/assets/pdf_file/0014/1111046/TC_station_community.pdf,0
+5514,,"Belconnen Community Stn Plt 4",, -35.240093, 149.068052,,http://www.transport.act.gov.au/__data/assets/pdf_file/0014/1111046/TC_station_community.pdf,0
+5515,,"Belconnen Community Stn Plt 5",, -35.240015, 149.068853,,http://www.transport.act.gov.au/__data/assets/pdf_file/0014/1111046/TC_station_community.pdf,0
+5517,,"Belc.Community Stn Arrivals",, -35.239890, 149.069018,,http://www.transport.act.gov.au/__data/assets/pdf_file/0014/1111046/TC_station_community.pdf,0
 5520,,"Eastern Valley Way before Emu Bank Dr",, -35.239992, 149.072920,,,0
 5521,,"Eastern Valley Way after Emu Bank Dr",, -35.240571, 149.073440,,,0
 5522,,"Eastern Valley Way Eastern Valley Oval",, -35.245760, 149.074855,,,0
@@ -2465,7 +2462,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6069,,"Anthony Rolfe Av after DeBortoli St",, -35.186391, 149.152152,,,0
 6070,,"Nullarbor Ave after Adder Street",, -35.200872, 149.161435,,,0
 6071,,"Nullarbor Ave after Cape York Street",, -35.201326, 149.163061,,,0
-6074,,"Mapleton Av after Jenolan St SSO",, -35.194925, 149.157486,,,0
 6075,,"Grampians St before Clear St",, -35.197955, 149.114545,,,0
 6076,,"Grampians St before Bimberi Cr",, -35.198273, 149.114207,,,0
 6077,,"Debortoli St after Anthony Rolfe Av",, -35.186704, 149.152494,,,0
@@ -2492,7 +2488,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6148,,"Langtree Cr after Avenal St",, -35.205259, 149.109677,,,0
 6149,,"Langtree Cr after Cocoparra Cr",, -35.205278, 149.109019,,,0
 6152,,"Langtree Cr after Fergus St",, -35.204000, 149.114262,,,0
-6153,,"Wimmera St Harrison PS SSO",, -35.198689, 149.151040,,,0
 6154,,"Amaroo PS turnaround at rear SSO",, -35.164467, 149.130583,,,0
 6155,,"Bimberi Centre",, -35.222591, 149.156114,,,0
 6156,,"Ashburton Cct Kaleen PS SSO",, -35.224637, 149.113164,,,0
@@ -2501,7 +2496,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6159,,"Nullarbor Av before Flemington Rd",, -35.200702, 149.148615,,,0
 6160,,"Flemington Rd after Nullarbor Av",, -35.200221, 149.149284,,,0
 6161,,"Flemington Rd after Nullarbor Av Sth",, -35.201498, 149.149273,,,0
-6162,,"Wimmera St Mother Teresa PS",, -35.195196, 149.152624,,,0
 6165,,"Burgmann Anglican School Forde",, -35.170833, 149.143845,,,0
 6168,,"Flemington Road after Hamer St",, -35.187082, 149.144988,,,0
 6169,,"Flemington Road before 2nd Manning Clarke Cr",, -35.187979, 149.148408,,,0
@@ -2553,22 +2547,21 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6335,,"Abena Av after Taplow St",, -35.200769, 149.104088,,,0
 6338,,"David Walsh before Horse Park Dr",, -35.178853, 149.144723,,,0
 6339,,"David Walsh Ave after Horse Park Dr",, -35.178910, 149.144269,,,0
-6341,,"Manning Clark Cr before Oodgeroo Ave",, -35.193387, 149.147348,,,0
 6666,,"Alexander Maconochie Centre",, -35.372115, 149.170009,,,0
 7009,,"Valley Av before Manning Clark",, -35.188372, 149.142170,,,0
 7010,,"Valley Av after Manning Clark",, -35.188338, 149.140597,,,0
-7011,,"Gungahlin Place Plt 3",, -35.185350, 149.135160,,,0
-7012,,"Gungahlin Place Plt 4",, -35.184610, 149.134956,,,0
+7011,,"Gungahlin Place Plt 3",, -35.185350, 149.135160,,http://www.transport.act.gov.au/__data/assets/pdf_file/0016/1111048/TC_station_gungahlin.pdf,0
+7012,,"Gungahlin Place Plt 4",, -35.184610, 149.134956,,http://www.transport.act.gov.au/__data/assets/pdf_file/0016/1111048/TC_station_gungahlin.pdf,0
 8888,,"Commonwealth Av Regetta Point",, -35.288396, 149.127827,,,0
 8889,,"Commonwealth Av after Albert Hall",, -35.288746, 149.127372,,,0
 9,,"Athllon Dr opp Centrelink Office",, -35.420281, 149.065985,,,0
 914,,"Pearce Av Fairbairn Pk",, -35.302213, 149.202241,,,0
 915,,"Fairbairn Pk Service Rd",, -35.305267, 149.203583,,,0
 916,,"Scherger Dr Fairbairn Pk",, -35.303643, 149.206494,,,0
-940,,"Cohen St Bus Stn Plt 6",, -35.240000, 149.060282,,,0
-941,,"Cohen St Bus Stn Plt 1",, -35.239493, 149.060292,,,0
-942,,"Cohen St Bus Stn Plt 2",, -35.239610, 149.060170,,,0
-945,,"Dickson Interchange Plt 1",, -35.251049, 149.134937,,,0
-946,,"Dickson Interchange Plt 2",, -35.251121, 149.134430,,,0
-956,,"Cohen St Bus Stn Arrivals",, -35.239740, 149.060014,,,0
-959,,"Cohen St Bus Stn",, -35.239904, 149.060209,,,0
+940,,"Cohen St Bus Stn Plt 6",, -35.240000, 149.060282,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0
+941,,"Cohen St Bus Stn Plt 1",, -35.239493, 149.060292,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0
+942,,"Cohen St Bus Stn Plt 2",, -35.239610, 149.060170,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0
+945,,"Dickson Interchange Plt 1",, -35.251049, 149.134937,,http://www.transport.act.gov.au/__data/assets/pdf_file/0015/1111047/TC_station_dickson.pdf,0
+946,,"Dickson Interchange Plt 2",, -35.251121, 149.134430,,http://www.transport.act.gov.au/__data/assets/pdf_file/0015/1111047/TC_station_dickson.pdf,0
+956,,"Cohen St Bus Stn Arrivals",, -35.239740, 149.060014,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0
+959,,"Cohen St Bus Stn",, -35.239904, 149.060209,,http://www.transport.act.gov.au/__data/assets/pdf_file/0013/1111045/TC_station_cohen.pdf,0

@@ -1,380 +1,143 @@
 route_id,route_short_name,route_long_name,route_desc,route_type,route_url
-1-10445,1,"City, Woden & Dickson",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-1-10453,1,"City, Woden & Dickson",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-1-10455,1,"City, Woden & Dickson",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-2-10445,2,"City, Woden,  Dickson, Barton & Deakin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-2-10453,2,"City, Woden, Dickson, Barton & Deakin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-2-10455,2,"City, Woden, Dickson, Barton & Deakin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-3-10445,3,"City, Woden, Belconnen, Barton & Deakin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-3-10453,3,"City, Woden, Belconnen, Barton & Deakin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-3-10455,3,"City, Woden, Belconnen, Barton & Deakin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-4-10445,4,"City, Red Hill & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-4-10453,4,"City, Red Hill & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-4-10455,4,"City, Red Hill & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-6-10445,6,"Woden, Belconnen, London Cct & Barton",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-6-10453,6,"Woden, Belconnen, London Cct & Barton",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-6-10455,6,"Woden, Belconnen, London Cct & Barton",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-7-10445,7,"Belconnen, Dickson & Uni of Canberra",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-7-10453,7,"Belconnen, Dickson & Uni of Canberra",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-7-10455,7,"Belconnen, Dickson & Uni of Canberra",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-8-10445,8,"City, Dickson & Lyneham",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-8-10453,8,"City, Dickson & Lyneham",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-8-10455,8,"City, Dickson & Lyneham",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-9-10445,9,"City & Duntroon (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-9-10453,9,"City & Duntroon (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-9-10455,9,"City & Duntroon (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-10-10445,10,"City & airport (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-10-10453,10,"City & airport (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-10-10455,10,"City & airport (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-11-10445,11,"City & airport (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-11-10453,11,"City & airport (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-11-10455,11,"City & airport (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-12-10445,12,"Belconnen & Spence",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-12-10453,12,"Belconnen & Spence",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-12-10455,12,"Belconnen & Spence",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-14-10445,14,"Belconnen & Fraser West",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-14-10453,14,"Belconnen & Fraser West",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-14-10455,14,"Belconnen & Fraser West",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-15-10445,15,"Belconnen, Spence, Florey & Melba",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-15-10453,15,"Belconnen, Spence, Florey & Melba",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-15-10455,15,"Belconnen, Spence, Florey & Melba",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-16-10445,16,"Belconnen, Kippax & Florey",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-16-10453,16,"Belconnen, Kippax & Florey",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-16-10455,16,"Belconnen, Kippax & Florey",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-17-10445,17,"Belconnen, Kippax & Weetangera",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-17-10453,17,"Belconnen, Kippax & Weetangera",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-17-10455,17,"Belconnen, Kippax & Weetangera",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-18-10445,18,"Lanyon, Tuggeranong, Lanyon & Bonython",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-18-10453,18,"Lanyon, Tuggeranong, Lanyon & Bonython",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-18-10455,18,"Lanyon, Tuggeranong, Lanyon & Bonython",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-19-10445,19,"Tuggeranong, Covenant Clg, Bonython PS & Lanyon",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-19-10453,19,"Tuggeranong, Covenant Clg, Bonython PS & Lanyon",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-19-10455,19,"Tuggeranong, Covenant Clg, Bonython PS & Lanyon",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-21-10445,21,"Woden, Torrens, Southland & Pearce (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-21-10453,21,"Woden, Torrens, Southland & Pearce (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-21-10455,21,"Woden, Torrens, Southland & Pearce (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-22-10445,22,"Woden, Southlands, Chifley & Lyons (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-22-10453,22,"Woden, Southlands, Chifley & Lyons (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-22-10455,22,"Woden, Southlands, Chifley & Lyons (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-23-10445,23,"Woden, Southlands, Isaacs & O'Malley (Loop Service",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-23-10453,23,"Woden, Southlands, Isaacs & O'Malley (Loop Service",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-23-10455,23,"Woden, Southlands, Isaacs & O'Malley (Loop Service",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-24-10445,24,"Woden, Isaacs, Farrer & Southlands (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-24-10453,24,"Woden, Isaacs, Farrer & Southlands (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-24-10455,24,"Woden, Isaacs, Farrer & Southlands (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-25-10445,25,"Woden & Cooleman Court",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-25-10453,25,"Woden & Cooleman Court",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-25-10455,25,"Woden & Cooleman Court",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-26-10445,26,"Woden, Chapman & Weston",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-26-10453,26,"Woden, Chapman & Weston",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-26-10455,26,"Woden, Chapman & Weston",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-27-10445,27,"Woden & Cooleman Court",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-27-10453,27,"Woden & Cooleman Court",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-27-10455,27,"Woden & Cooleman Court",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-30-10445,30,"City, Giralang & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-30-10453,30,"City, Giralang & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-30-10455,30,"City, Giralang & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-31-10445,31,"City, Kaleen & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-31-10453,31,"City, Kaleen & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-31-10455,31,"City, Kaleen & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-39-10445,39,"City, Watson & Dickson (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-39-10453,39,"City, Watson & Dickson (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-39-10455,39,"City, Watson & Dickson (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-40-10445,40,"City & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-40-10453,40,"City & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-40-10455,40,"City & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-43-10445,43,"Belconnen & Fraser",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-43-10455,43,"Belconnen & Fraser",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-44-10445,44,"Belconnen & Kippax",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-44-10453,44,"Belconnen & Kippax",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-44-10455,44,"Belconnen & Kippax",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-45-10445,45,"Belconnen, Flynn & Fraser",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-45-10453,45,"Belconnen, Flynn & Fraser",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-45-10455,45,"Belconnen, Flynn & Fraser",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-51-10445,51,"Belconnen & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-51-10453,51,"Belconnen & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-51-10455,51,"Belconnen & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-52-10445,52,"Belconnen, McKellar & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-52-10453,52,"Belconnen, McKellar & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-52-10455,52,"Belconnen, McKellar & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-53-10453,53,"Moncrieff, Amaroo & Gungahlin",,3,
-53-10455,53,"Moncrieff, Amaroo & Gungahlin",,3,
-54-10445,54,"Belconnen, Baldwin Dr, Palmerston & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-54-10453,54,"Belconnen, Baldwin Dr, Palmerston & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-54-10455,54,"Belconnen, Baldwin Dr, Palmerston & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-55-10445,55,"Gungahlin & Forde Counter-Clockwise (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-55-10453,55,"Gungahlin & Forde Counter-Clockwise (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-55-10455,55,"Gungahlin & Forde Counter-Clockwise (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-56-10445,56,"City, Dickson Palmerston & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-56-10453,56,"City, Dickson Palmerston & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-56-10455,56,"City, Dickson Palmerston & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-57-10445,57,"City, Dickson, Franklin & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-57-10453,57,"City, Dickson, Franklin & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-57-10455,57,"City, Dickson, Franklin & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-58-10445,58,"City, Harrison & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-58-10453,58,"City, Harrison & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-58-10455,58,"City, Harrison & Gungahlin",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-59-10445,59,"Gungahlin via Amaroo (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-59-10453,59,"Gungahlin via Amaroo (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-59-10455,59,"Gungahlin via Amaroo (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-60-10445,60,"Tuggeranong, Kambah & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-60-10453,60,"Tuggeranong, Kambah & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-60-10455,60,"Tuggeranong, Kambah & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-61-10445,61,"Tuggeranong, Oxley & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-61-10453,61,"Tuggeranong, Oxley & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-61-10455,61,"Tuggeranong, Oxley & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-62-10445,62,"Tuggeranong, Kambah Village & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-62-10453,62,"Tuggeranong, Kambah Village & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-62-10455,62,"Tuggeranong, Kambah Village & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-63-10445,63,"Tuggeranong, Monash & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-63-10453,63,"Tuggeranong, Monash & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-63-10455,63,"Tuggeranong, Monash & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-64-10445,64,"Tuggeranong, Wanniassa & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-64-10453,64,"Tuggeranong, Wanniassa & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-64-10455,64,"Tuggeranong, Wanniassa & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-65-10445,65,"Tuggeranong, Chisholm & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-65-10453,65,"Tuggeranong, Chisholm & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-65-10455,65,"Tuggeranong, Chisholm & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-66-10445,66,"Tuggeranong , Bonython & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-66-10453,66,"Tuggeranong , Bonython & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-66-10455,66,"Tuggeranong , Bonython & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-67-10445,67,"Tuggeranong, Calwell & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-67-10453,67,"Tuggeranong, Calwell & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-67-10455,67,"Tuggeranong, Calwell & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-71-10445,71,"Tuggeranong, Theodore & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-71-10453,71,"Tuggeranong, Theodore & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-71-10455,71,"Tuggeranong, Theodore & Woden",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-80-10445,80,"Woden, Fyshwick & City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-80-10453,80,"Woden, Fyshwick & City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-80-10455,80,"Woden, Fyshwick & City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-81-10445,81,"Tourist Loop",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-81-10453,81,"Tourist Loop",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-81-10455,81,"Tourist Loop",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-83-10445,83,"Woden, Coombs & Wright",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-83-10453,83,"Woden, Coombs & Wright",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-83-10455,83,"Woden, Coombs & Wright",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-88-10445,88,"Woden & Gaol (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-88-10453,88,"Woden & Gaol (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-88-10455,88,"Woden & Gaol (Loop Service)",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-101-10445,101,"Free City Loop",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-101-10453,101,"Free City Loop",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-101-10455,101,"Free City Loop",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-160-10445,160,"City, Kambah & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-160-10453,160,"City, Kambah & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-160-10455,160,"City, Kambah & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-161-10445,161,"City West & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-161-10453,161,"City West & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-161-10455,161,"City West & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-162-10445,162,"City, Kambah & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-162-10453,162,"City, Kambah & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-162-10455,162,"City, Kambah & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-163-10445,163,"City, Monash, Erindale, Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-163-10453,163,"City, Monash, Erindale, Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-163-10455,163,"City, Monash, Erindale, Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-164-10445,164,"City, Wanniassa & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-164-10453,164,"City, Wanniassa & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-164-10455,164,"City, Wanniassa & Tuggeranong",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-171-10445,171,"Tuggeranong, Theodore & City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-171-10453,171,"Tuggeranong, Theodore & City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-171-10455,171,"Tuggeranong, Theodore & City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-182-10445,182,"Weston Line",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-182-10453,182,"Weston Line",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-182-10455,182,"Weston Line",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-200-10445,200,"Red Rapid 200 - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-200-10453,200,"Red Rapid 200 - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-200-10455,200,"Red Rapid 200 - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-250-10445,250,"Black Rapid 250 - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-250-10453,250,"Black Rapid 250 - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-250-10455,250,"Black Rapid 250 - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-251-10445,251,"Belconnen, Casey, Gungahlin, City & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-251-10453,251,"Belconnen, Casey, Gungahlin, City & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-251-10455,251,"Belconnen, Casey, Gungahlin, City & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-252-10445,252,"Belconnen, McKellar, Gungahlin, City & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-252-10453,252,"Belconnen, McKellar, Gungahlin, City & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-252-10455,252,"Belconnen, McKellar, Gungahlin, City & Fyshwick",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-254-10445,254,"Belconnen, Crace, Palmerston Gungahlin, City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-254-10453,254,"Belconnen, Crace, Palmerston Gungahlin, City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-254-10455,254,"Belconnen, Crace, Palmerston Gungahlin, City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-255-10445,255,"Gungahlin, Forde, Bonner and City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-255-10453,255,"Gungahlin, Forde, Bonner and City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-255-10455,255,"Gungahlin, Forde, Bonner and City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-259-10445,259,"Gungahlin, Ngunnawal, Amaroo, City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-259-10453,259,"Gungahlin, Ngunnawal, Amaroo, City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-259-10455,259,"Gungahlin, Ngunnawal, Amaroo, City",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-300-10445,300,"Blue Rapid 300 Series - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-300-10453,300,"Blue Rapid 300 Series - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-300-10455,300,"Blue Rapid 300 Series - Limited Stops",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-313-10445,313,"Fraser, Macgregor, Belconnen Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-313-10453,313,"Fraser, Macgregor, Belconnen Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-313-10455,313,"Fraser, Macgregor, Belconnen Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-314-10445,314,"Belconnen, Page, Flynn, Charnwood, Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-314-10453,314,"Belconnen, Page, Flynn, Charnwood, Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-314-10455,314,"Belconnen, Page, Flynn, Charnwood, Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-315-10445,315,"Melba, Spence, Belconnen Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-315-10453,315,"Melba, Spence, Belconnen Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-315-10455,315,"Melba, Spence, Belconnen Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-316-10445,316,"Belconnen, Florey, Latham, Kippax Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-316-10453,316,"Belconnen, Florey, Latham, Kippax Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-316-10455,316,"Belconnen, Florey, Latham, Kippax Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-318-10445,318,"Lanyon, Gordon, Bonython, Tuggeranong Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-318-10453,318,"Lanyon, Gordon, Bonython, Tuggeranong Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-318-10455,318,"Lanyon, Gordon, Bonython, Tuggeranong Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-319-10445,319,"Tuggeranong, Bonython, Conder, Lanyon Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-319-10453,319,"Tuggeranong, Bonython, Conder, Lanyon Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-319-10455,319,"Tuggeranong, Bonython, Conder, Lanyon Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-343-10445,343,"Belconnen, Kippax, Charnwood, Macgregor Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-343-10453,343,"Belconnen, Kippax, Charnwood, Macgregor Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-343-10455,343,"Belconnen, Kippax, Charnwood, Macgregor Blue Rapid",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-618-10445,618,"AM Gungahlin to Lyneham Primary",,3,http://www.transport.act.gov.au/routes-and-timetables/school_services
-618-10455,618,"AM Gungahlin to Lyneham Primary",,3,http://www.transport.act.gov.au/routes-and-timetables/school_services
-705-10445,705,"Belconnen, Woden & Tuggeranong Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-705-10453,705,"Belconnen, Woden & Tuggeranong Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-705-10455,705,"Belconnen, Woden & Tuggeranong Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-712-10445,712,"City, Belconnen & Spence Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-712-10453,712,"City, Belconnen & Spence Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-712-10455,712,"City, Belconnen & Spence Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-714-10445,714,"City Belconnen & Fraser Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-714-10453,714,"City Belconnen & Fraser Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-714-10455,714,"City Belconnen & Fraser Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-717-10445,717,"Kippax, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-717-10453,717,"Kippax, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-717-10455,717,"Kippax, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-718-10445,718,"Tuggeranong, City & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-718-10453,718,"Tuggeranong, City & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-718-10455,718,"Tuggeranong, City & Belconnen",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-719-10445,719,"City, Lanyon Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-719-10453,719,"City, Lanyon Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-719-10455,719,"City, Lanyon Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-720-10445,720,"City, Farrer Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-720-10453,720,"City, Farrer Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-720-10455,720,"City, Farrer Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-725-10445,725,"Cooleman Court, City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-725-10453,725,"Cooleman Court, City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-725-10455,725,"Cooleman Court, City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-726-10445,726,"Weston Creek, City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-726-10453,726,"Weston Creek, City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-726-10455,726,"Weston Creek, City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-732-10445,732,"City, Woden Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-732-10453,732,"City, Woden Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-732-10455,732,"City, Woden Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-743-10445,743,"Fraser, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-743-10453,743,"Fraser, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-743-10455,743,"Fraser, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-744-10445,744,"Kippax, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-744-10453,744,"Kippax, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-744-10455,744,"Kippax, Belconnen & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-749-10445,749,"Belconnen, Woden & Tuggeranong Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-749-10453,749,"Belconnen, Woden & Tuggeranong Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-749-10455,749,"Belconnen, Woden & Tuggeranong Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-765-10445,765,"Tuggeranong, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-765-10453,765,"Tuggeranong, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-765-10455,765,"Tuggeranong, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-767-10445,767,"Tuggeranong, Chisolm, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-767-10453,767,"Tuggeranong, Chisolm, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-767-10455,767,"Tuggeranong, Chisolm, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-775-10445,775,"Gordon, Lanyon, Calwell, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-775-10453,775,"Gordon, Lanyon, Calwell, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-775-10455,775,"Gordon, Lanyon, Calwell, Barton & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-783-10445,783,"Cooleman Court, Weston Park Ride & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-783-10453,783,"Cooleman Court, Weston Park Ride & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-783-10455,783,"Cooleman Court, Weston Park Ride & City Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-791-10445,791,"Majura Park, ADFA, Barton & Woden Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-791-10453,791,"Majura Park, ADFA, Barton & Woden Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-791-10455,791,"Majura Park, ADFA, Barton & Woden Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-792-10445,792,"Woden, Barton, Russell & Fairbairn Park Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-792-10453,792,"Woden, Barton, Russell & Fairbairn Park Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-792-10455,792,"Woden, Barton, Russell & Fairbairn Park Xpresso",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-902-10453,902,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-902-10455,902,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-903-10453,903,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-903-10455,903,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-904-10453,904,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-904-10455,904,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-905-10453,905,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-905-10455,905,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-906-10453,906,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-906-10455,906,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-907-10453,907,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-907-10455,907,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-909-10453,909,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-909-10455,909,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-910-10453,910,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-910-10455,910,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-918-10453,918,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-918-10455,918,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-919-10453,919,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-919-10455,919,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-921-10453,921,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-921-10455,921,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-922-10453,922,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-922-10455,922,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-923-10453,923,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-923-10455,923,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-924-10453,924,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-924-10455,924,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-925-10453,925,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-925-10455,925,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-926-10453,926,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-926-10455,926,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-927-10453,927,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-927-10455,927,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-930-10453,930,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-930-10455,930,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-931-10453,931,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-931-10455,931,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-932-10453,932,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-932-10455,932,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-934-10453,934,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-934-10455,934,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-935-10453,935,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-935-10455,935,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-936-10453,936,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-936-10455,936,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-937-10453,937,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-937-10455,937,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-938-10453,938,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-938-10455,938,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-939-10453,939,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-939-10455,939,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-940-10453,940,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-940-10455,940,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-951-10453,951,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-951-10455,951,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-952-10453,952,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-952-10455,952,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-953-10453,953,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-953-10455,953,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-954-10453,954,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-954-10455,954,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-955-10453,955,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-955-10455,955,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-956-10453,956,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-956-10455,956,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-958-10453,958,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-958-10455,958,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-959-10453,959,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-959-10455,959,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-960-10453,960,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-960-10455,960,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-961-10453,961,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-961-10455,961,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-962-10453,962,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-962-10455,962,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-964-10453,964,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-964-10455,964,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-966-10453,966,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-966-10455,966,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-967-10453,967,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-967-10455,967,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-968-10453,968,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-968-10455,968,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-971-10453,971,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-971-10455,971,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-980-10453,980,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-980-10455,980,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-981-10453,981,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-981-10455,981,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-983-10453,983,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-983-10455,983,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-988-10453,988,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
-988-10455,988,"",,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+1-10455,1,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+2-10455,2,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+3-10455,3,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+4-10455,4,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+6-10455,6,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+7-10455,7,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+8-10455,8,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+9-10455,9,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+10-10455,10,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+11-10455,11,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+12-10455,12,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+14-10455,14,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+15-10455,15,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+16-10455,16,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+17-10455,17,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+18-10455,18,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+19-10455,19,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+21-10455,21,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+22-10455,22,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+23-10455,23,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+24-10455,24,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+25-10455,25,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+26-10455,26,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+27-10455,27,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+30-10455,30,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+31-10455,31,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+39-10455,39,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+40-10455,40,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+43-10455,43,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+44-10455,44,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+45-10455,45,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+51-10455,51,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+52-10455,52,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+53-10455,53,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+54-10455,54,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+55-10455,55,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+56-10455,56,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+57-10455,57,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+58-10455,58,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+59-10455,59,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+60-10455,60,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+61-10455,61,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+62-10455,62,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+63-10455,63,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+64-10455,64,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+65-10455,65,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+66-10455,66,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+67-10455,67,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+71-10455,71,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+80-10455,80,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+81-10455,81,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+83-10455,83,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+88-10455,88,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+101-10455,101,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+160-10455,160,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+161-10455,161,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+162-10455,162,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+163-10455,163,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+164-10455,164,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+171-10455,171,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+182-10455,182,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+200-10455,200,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+250-10455,250,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+251-10455,251,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+252-10455,252,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+254-10455,254,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+255-10455,255,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+259-10455,259,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+300-10455,300,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+313-10455,313,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+314-10455,314,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+315-10455,315,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+316-10455,316,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+318-10455,318,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+319-10455,319,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+343-10455,343,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+705-10455,705,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+712-10455,712,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+714-10455,714,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+717-10455,717,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+718-10455,718,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+719-10455,719,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+720-10455,720,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+725-10455,725,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+726-10455,726,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+732-10455,732,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+743-10455,743,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+744-10455,744,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+749-10455,749,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+765-10455,765,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+767-10455,767,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+775-10455,775,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+783-10455,783,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+791-10455,791,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+792-10455,792,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+902-10455,902,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+903-10455,903,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+904-10455,904,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+905-10455,905,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+906-10455,906,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+907-10455,907,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+909-10455,909,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+910-10455,910,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+918-10455,918,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+919-10455,919,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+921-10455,921,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+922-10455,922,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+923-10455,923,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+924-10455,924,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+925-10455,925,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+926-10455,926,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+927-10455,927,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+930-10455,930,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+931-10455,931,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+932-10455,932,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+934-10455,934,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+935-10455,935,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+936-10455,936,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+937-10455,937,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+938-10455,938,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+939-10455,939,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+940-10455,940,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+951-10455,951,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+952-10455,952,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+953-10455,953,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+954-10455,954,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+955-10455,955,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+956-10455,956,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+958-10455,958,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+959-10455,959,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+960-10455,960,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+961-10455,961,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+962-10455,962,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+964-10455,964,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+966-10455,966,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+967-10455,967,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+968-10455,968,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+971-10455,971,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+980-10455,980,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+981-10455,981,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+983-10455,983,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
+988-10455,988,,,3,http://www.transport.act.gov.au/routes-and-timetables/timetables/
