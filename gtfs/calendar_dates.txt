@@ -1,1 +1,2 @@
 service_id,date,exception_type
+2017-2-COMBNXT-Sunday-13,20181001,1

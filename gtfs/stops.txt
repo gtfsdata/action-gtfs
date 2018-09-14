@@ -2371,9 +2371,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5099,,"Lance Hill Av after Shoobridge Cct",, -35.195165, 149.020372,,,0
 5101,,"Kerrigan St after Polilight St roundabout",, -35.193721, 149.031334,,,0
 5102,,"Kerrigan St before Dunnet St",, -35.193759, 149.031230,,,0
-5103,,"Catalina Dr",, -35.299021, 149.188071,,,0
-5110,,"Dakota Dr after Spitfire Av",, -35.299608, 149.189019,,,0
-5111,,"Catalina Dr Costco",, -35.295862, 149.189554,,,0
+5103,,"Catalina Dr",, -35.299033, 149.188100,,,0
+5110,,"Dakota Dr after Spitfire Av",, -35.300127, 149.189025,,,0
+5111,,"Catalina Dr Costco",, -35.295663, 149.189659,,,0
 5127,,"Canberra Av after Ipswich St",, -35.330885, 149.162578,,,0
 5139,,"Joynton Smith Dr after Sutherland Cr",, -35.230595, 149.061759,,,0
 5140,,"Joynton Smith Dr North after Sutherland Cr",, -35.231247, 149.061617,,,0
@@ -2475,6 +2475,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6091,,"Amy Ackman St before Jessie St",, -35.166789, 149.144392,,,0
 6100,,"Redruth St before Abena Av",, -35.201876, 149.106915,,,0
 6102,,"Bernard Heinze Av before Tycho St",, -35.157853, 149.122278,,,0
+6104,,"Bernard Heinze Av before Crackajack Way",, -35.157520, 149.117899,,,0
 6105,,"Mirrabei Dr after Yamma Way",, -35.155824, 149.114397,,,0
 6130,,"The Valley Av after Gozzard St",, -35.186889, 149.129587,,,0
 6131,,"The Valley Av East of Warwick St",, -35.186798, 149.129603,,,0
